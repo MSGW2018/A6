@@ -46,7 +46,7 @@ Now all the group members have permission to edit the repository. The following 
 
 You have created a branch where you and the rest of your group members will be creating the content for this assignment. 
 
-Now each of you need to `clone` (create a copy in your own computer) the repository to work on it. You will find more detailed instructions for his in the official  [GitHub Desktop User Guides](https://help.github.com/desktop/guides/getting-started-with-github-desktop/). For the purposes of this assignment, follow these steps:
+Now each of you need to `clone` (create a copy in your own computer) the repository to work on it. You will find more detailed instructions for his in the official  [GitHub Desktop User Guides](https://help.github.com/desktop/guides/). For the purposes of this assignment, follow these steps:
 
 1. Install [GitHub Desktop](https://desktop.github.com/) (download and setup)
 3. Clone this repository to your computer (see the [official documentation](https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop/))
@@ -56,8 +56,15 @@ Now each of you need to `clone` (create a copy in your own computer) the reposit
 	6. Click the `Clone` button. The repository files are now in your computer
 3. Change to _your_ branch, the branch your group will be generating content into. In GitHub Desktop, click the _<i class="fa fa-code-branch"></i> Current branch **master**_ button and select your branch from the dropdown
 
+You would now go on and add content to the files in your computer, create new files, etc. Compared to editing files through the GitHub.com interface (which is what you did in the GitHub 101 tutorial), using GitHub Desktop will allow for more complex work, such as committing more than one modification at once, for example.
 
+Once you have a significant (in the sense of _with a unique meaning_, not necessarily _big_) set of modifications, you should [commit them through GitHub Desktop](https://help.github.com/desktop/guides/contributing-to-projects/committing-and-reviewing-changes-to-your-project/). This will save the _new versions_ of the project that you have been creating in your computer. The next step, at least when you finish your work session (but more often if you want to), would be to push your commits to the remote repository by clicking the `Push origin` button in GitHub Desktop (always make sure **your branch** is selected). This will update your branch on the shared repository in GitHub, _in the cloud_.
 
+The next time you want to start working on the assignment, it is important to note that your teammates may have been making changes to the shared repository in the cloud in the meantime. If this has happened, you will see a small number with a downward arrow in the `Pull origin` button of GitHub Desktop. Click that, and your copy (the copy in your computer) of the repository will be updated to match the shared one in the cloud. This should always be your first step when you plan to start editing your files for this assignment, as merge conflicts may occurr otherwise which are more difficult to solve. 
+
+Github flow https://guides.github.com/introduction/flow/
+
+One final point to have in mind for this content creation stage is that we will be using Markdown to format the content in our files. The specifics of what Markdown is and how it can be used are explained in detail in the following section.
 
 ### Markdown
 
@@ -74,6 +81,10 @@ You will find the [basics about its syntax in the GitHub Help](https://help.gith
 ).
 
 ## Stage 2: revision
+
+---
+
+**WORK IN PROGRESS**
 
 ## Stage 3: final merge
 
