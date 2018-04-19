@@ -62,8 +62,6 @@ Once you have a significant (in the sense of _with a unique meaning_, not necess
 
 The next time you want to start working on the assignment, it is important to note that your teammates may have been making changes to the shared repository in the cloud in the meantime. If this has happened, you will see a small number with a downward arrow in the `Pull origin` button of GitHub Desktop. Click that, and your copy (the copy in your computer) of the repository will be updated to match the shared one in the cloud. This should always be your first step when you plan to start editing your files for this assignment, as merge conflicts may occurr otherwise which are more difficult to solve. 
 
-Github flow https://guides.github.com/introduction/flow/
-
 One final point to have in mind for this content creation stage is that we will be using Markdown to format the content in our files. The specifics of what Markdown is and how it can be used are explained in detail in the following section.
 
 ### Markdown
@@ -91,3 +89,7 @@ You will find the [basics about its syntax in the GitHub Help](https://help.gith
 ---
 
 **WORK IN PROGRESS**
+
+## Further references
+
+[GitHub Flow](https://guides.github.com/introduction/flow/)
