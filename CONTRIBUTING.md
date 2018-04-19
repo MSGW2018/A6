@@ -10,7 +10,7 @@ This assignment will be carried out in three different stages:
 
 The following sections explain the step-by-step for each of these stages.
 
-## Previus steps
+## Previous steps
 
 First, you need to create an account on GitHub and follow the [101 Introduction to GitHub](https://services.github.com/on-demand/intro-to-github/) tutorial. We did this in class, so make sure you do it on your own if you didn't. It will get you to the basics of how GitHub works, which will be necessary for you in this assignment.
 
