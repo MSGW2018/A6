@@ -1,2 +1,3 @@
-# A6
-Assignment 6. Production of messages for the web 2018
+# The user as content creator
+
+The web we know today goes far beyond just accessing and reading contents. We do that, but we also share our own content, comment on that of others, and generate new knowledge in the process. So it is clear that the role of the user has shifted, and this has had implications not only on the web, but in all spheres of our lives as well. This document is aimed at understanding the shift of the user's role and what the new user is like, through the analysis of that shift in different spheres of society.

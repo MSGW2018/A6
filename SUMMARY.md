@@ -1,6 +1,5 @@
 # Table of contents
 
-- [Introduction](intro.md)
 - [Sample topic](sample-topic/README.md)
     1. [Subsection](sample-topic/subsection.md)
 - Identity construction
