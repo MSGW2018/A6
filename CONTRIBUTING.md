@@ -46,7 +46,18 @@ Now all the group members have permission to edit the repository. The following 
 
 You have created a branch where you and the rest of your group members will be creating the content for this assignment. 
 
-Now 
+Now each of you need to `clone` (create a copy in your own computer) the repository to work on it. You will find more detailed instructions for his in the official  [GitHub Desktop User Guides](https://help.github.com/desktop/guides/getting-started-with-github-desktop/). For the purposes of this assignment, follow these steps:
+
+1. Install [GitHub Desktop](https://desktop.github.com/) (download and setup)
+3. Clone this repository to your computer (see the [official documentation](https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop/))
+	1. Go to the [repository front page](https://github.com/MSGW2018/A6) and click the `Clone or download` green button to the right of the page
+	2. Click the `Open in Desktop` button. This will open GitHub Desktop in the repository clone setup window
+	5. In `Local path`, select where you want to store the repository folder in your hard drive
+	6. Click the `Clone` button. The repository files are now in your computer
+3. Change to _your_ branch, the branch your group will be generating content into. In GitHub Desktop, click the _<i class="fa fa-code-branch"></i> Current branch **master**_ button and select your branch from the dropdown
+
+
+
 
 ### Markdown
 
