@@ -1,8 +1,9 @@
 # Table of contents
 
 - [Introduction](intro.md)
-- [Identity construction](identity-construction/README.md)
-    1. [Subsection](identity-construction/subsection.md)
+- [Sample topic](sample-topic/README.md)
+    1. [Subsection](sample-topic/subsection.md)
+- Identity construction
 - Journalism
 - Knowledge generation
 - Economy
