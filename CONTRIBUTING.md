@@ -1,4 +1,4 @@
-# Production of Messages for the Web 2018. Assignment 6
+# How to contribute to this repository
 
 This is the repository where we will be creating the content for Assignment 6. This document explains exactly where and how you need to modify the example content to add your own and thus complete A6 [as described in ALUD](https://alud.deusto.es/mod/assign/view.php?id=15863). 
 
@@ -14,17 +14,19 @@ The following sections explain the step-by-step for each of these stages.
 
 First, you need to create an account on GitHub and follow the [101 Introduction to GitHub](https://services.github.com/on-demand/intro-to-github/) tutorial. We did this in class, so make sure you do it on your own if you didn't. It will get you to the basics of how GitHub works, which will be necessary for you in this assignment.
 
-Then you need to be part of the [MSGW2018 organization on GitHub](https://github.com/MSGW2018). All of you got an invite to join the organization, either directly through your GitHub account if you have one, or through email if you still don't. Let me know if you didn't get an invite or otherwise have problems joining the organization.
-
-I will then add all organization members as collaborators to the Assignment 6 repository (this repository). 
+Then you need to be part of the [MSGW2018 organization on GitHub](https://github.com/MSGW2018). All of you got an invite to join the organization, either directly through your GitHub account if you have one, or through email if you still don't. Let me know if you didn't get an invite or otherwise have problems joining the organization. I will then add all organization members as collaborators to the Assignment 6 repository (this repository). 
 
 All this is necessary to go on with the following steps.
 
 ## Stage 1: content creation
 
-Each group will create their content in their own branch in this repository. To do this, first designate **one member of the group** to carry out these first setup tasks:
+Each group will create their content in their own branch in this repository. To do this, first designate **one member of the group** to carry out this first setup tasks: creating a branch for your group's additions. To do this:
 
-<!-- 
+1. Click the `Branch: master` button to the top-left on the repository page
+2. Write a name for the new branch. It has to be descriptive of the topic you will be working on, so if your topic title is, for example, _Sample topic_, you could name the branch `sample-topic`.
+3. A blue button should appear in the dropdown (you are not correctly set as a collaborator to the repository if it doesn't, let me know), with the text _<i class="fa fa-code-branch"></i> Create branch: sample-topic (from 'master')_. Click that.
+
+<!-- FORK VERSION
 1. Fork [the _central_ repository of the assignment](https://github.com/MSGW2018/A6) to your personal account. To do this:
    1. Click the [<i class="fa fa-code-branch"></i> Fork](https://github.com/MSGW2018/A6#fork-destination-box) button to the top-right on the repository page 
    2. Choose your profile picture on the `Where should we fork this repository?` pop-up window
@@ -40,10 +42,11 @@ Each group will create their content in their own branch in this repository. To 
    3. Search your teammates by username and add them
 
 Now all the group members have permission to edit the repository. The following steps will describe the contents present in the repository you forked, and where you need to add your contents and editions. 
-
 -->
 
+You have created a branch where you and the rest of your group members will be creating the content for this assignment. 
 
+Now 
 
 ### Markdown
 
@@ -58,6 +61,10 @@ We are going to use Markdown to format our content in this project. [From Wikipe
 You will find the [basics about its syntax in the GitHub Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/) which you can use as reference or through the [Mastering Markdown GitHub Guide](https://guides.github.com/features/mastering-markdown/). Additionally, you can also follow this [simple Markdown tutorial](https://www.markdowntutorial.com/
 ) if you need a more guided solution, or even the [more thorough Codecademy course](https://www.codecademy.com/courses/web-intermediate-en-Bw3bg/0/1
 ).
+
+## Stage 2: revision
+
+## Stage 3: final merge
 
 ---
 
