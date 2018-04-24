@@ -80,6 +80,21 @@ You will find the [basics about its syntax in the GitHub Help](https://help.gith
 ) if you need a more guided solution, or even the [more thorough Codecademy course](https://www.codecademy.com/courses/web-intermediate-en-Bw3bg/0/1
 ).
 
+### Pull requests during class time
+
+We will be doing at least one pull request per week during class time, so as to merge the content you have been creating into the `master` branch of the repository. To do this (required to do only once per group):
+
+1. Navigate to the repository front page and make sure your working branch is selected (for example https://github.com/MSGW2018/A6/tree/sample-topic)
+2. Just below the branch selection dropdown, you will see a message that says `This branch is XX commits ahead of master.`, and `Compare` and `Pull request` buttons to its right. Click on `Pull request`
+3. In the `pull request` creation page:
+   - Describe your pull request. Add a descriptive title, and explain your main modifications in all the commits that will go with this pull request (you can see a summary below the form). 
+   - In the `Reviewers` area to the right, add me (@mberasategi) as a reviewer
+   - In the `Milestone` area to the right, select the _Content creation stage_ from the dropdown
+   - Click `Create pull request`
+
+Once the pull request is created, we will use that page to discuss your modifications and make further changes if needed. Once they are approved, we will merge them into the master branch. 
+
+
 ## Stage 2: revision
 
 ---
