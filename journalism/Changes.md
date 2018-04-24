@@ -1,1 +1,0 @@
-Changes covered with new technologies
