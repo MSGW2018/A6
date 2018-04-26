@@ -6,7 +6,7 @@ The extensive use of Information and Communication Technologies is one of the ch
 In this way, nowadays, it is increasingly common to require people with extensive technological skills to access jobs in a wide variety of professions. Among them, we must mention journalism, since it has experienced significant changes. We have evolved from a traditional journalism to an increasingly digital journalism. 
 
 
-One of the most important aspects of the digital journalism is the expansion of navigation possibilities and hypertextuality. In addition, digital journalism is also characterized by multimedia elements and frequency of updating, without any type of space or time limit. Nevertheless, undoubtedly, one of the greatest advantages and characteristics of the new digital paradigm is the interactivity. Thanks to it, there is an intense feedback between the sender and the receiver of the information. Moreover, it not only endows the environment with great dynamism, but it also gives the possibility of creating both closeness and proximity with the writer or with the journalist. 
+One of the most important aspects of the digital journalism is the expansion of navigation possibilities and hypertextuality. In addition, digital journalism is also characterized by multimedia elements and frequency of updating, without any type of space or time limit. Nevertheless, undoubtedly, one of the greatest advantages and characteristics of the new digital paradigm is the interactivity. Thanks to it, there is an intense feedback between the sender and the receiver of the information. Moreover, it not only endows the environment with great dynamism, but it also gives the possibility of creating both closeness and proximity with the writer or with the journalist.
 
 
 
