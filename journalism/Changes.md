@@ -20,3 +20,9 @@ Moreover, nowadays, anyone who has a computer connected to the Internet can uplo
 Anyway, the fact that anyone can create any type of information has also a negative side which is mainly that the veracity of the information has become something more and more difficult to control. So, we must evaluate the information taking into account two basic factors such as the credibility of the source and content.
 
 Finally, it is also interesting to mention what is known as immersive journalism. The immersive journalism allows the user to experience a scenario created virtually in which a journalistic story is represented. This type of journalism, which is growing more an more, increases both the empathy and the understanding of reality. 
+
+- #### Interesting links
+Here you will be able to find to interesting articles about what we have been talking about:
+[_Tapping Technology to Advance the Future of Journalism_- THE NEW YORK TIMES](https://www.nytimes.com/2018/01/03/technology/personaltech/technology-future-journalism.html)
+[_How technology is changing journalism_- THE AUSTRALIAN](https://www.theaustralian.com.au/business/media/technology-changing-journalism/news-story/04f969acd1c00ab4f6fafec70d10cc19?sv=d934692e883c7c426f940888542181da)
+
