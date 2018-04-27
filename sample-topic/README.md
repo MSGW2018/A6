@@ -9,5 +9,5 @@ Economy is the area of the production, distribution and consumption of goods and
 In this proyect we are going to talk about three different areas:
 
 - [Long tail](subsection.md)
-- Crowfounding
-- Trade and exchanged of direct services through the internet
+- [Crowfounding](subsection2.md)
+- [Trade and exchanged of direct services through the internet](subsection3.md)
