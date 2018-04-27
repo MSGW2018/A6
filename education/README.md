@@ -12,5 +12,7 @@ In this project we will give a general overview about this interesting alternati
 - [History](history.md)
 - [Concept](concept.md)
 - [Benefits](beneficts.md)
+- [Limitations](limitations.md)
 - [MOOCs](MOOCs.md)
 - [Open education global conference](openeducationglobalconference.md)
+- [Future](future.md)
