@@ -1,4 +1,4 @@
-# Sample topic title
+# Economy
 
 by Group 0 (Name1, Name2, Name3)
 
