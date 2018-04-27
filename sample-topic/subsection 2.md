@@ -16,3 +16,5 @@ These are the most common modalities:
 <strong>Crowdfunding of investment or Equity.</strong> Here the aim is to capture amounts that range between € 20,000 and € 200,000. The investor is given shares of the company in exchange.
 
 <strong>Crowdfunding of loan, the Crowdlending.</strong> Here what is sought is financing in exchange for paying an interest to the investor, as if it were a bank but with many people behind your idea supported. Although it is true that in general the average interest is higher than in a bank, depending on the risk of the business idea, and ranges from 5 to 20%.
+
+<video src="https://www.youtube.com/watch?v=8b5-iEnW70k" width="640" height="480"></video>
