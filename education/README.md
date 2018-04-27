@@ -9,8 +9,8 @@ Open education is a philosophy about the way people should produce, share, and b
 
 In this project we will give a general overview about this interesting alternative for traditional education. We will cover the following sections: 
 
-- [History](education/history.md)
-- [Concept](education/concept.md)
-- [Benefits](education/beneficts.md)
-- [MOOCs](education/MOOCs.md)
-- [Open education global conference](education/openeducationglobalconference.md)
+- [History](history.md)
+- [Concept](concept.md)
+- [Benefits](beneficts.md)
+- [MOOCs](MOOCs.md)
+- [Open education global conference](openeducationglobalconference.md)
