@@ -1,3 +1,3 @@
-# Subsection title
+# Long tail
 
 Subsection content.
