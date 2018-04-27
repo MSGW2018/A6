@@ -4,13 +4,10 @@
 by Group 4 (Leire Neira, Amaia Ruano, Myriam Perez, Carla Goberna)
 =======
 
-This sample topic is here as an example for you to replicate in your correspondig topic/section, and will be deleted for the final version of the repository.
+Economy is the area of the production, distribution and consumption of goods and services by different agents. Economic activity econuraged by production which uses natural resources, labor and capital. 
 
-This is where you would write the actual content. In the case of this page (cover of the topic), it would contain a general introduction to the topic and a justification of the following subsections.
+In this proyect we are going to talk about three different areas:
 
-Then, you would list the subsections or subtopics (subpages) that you will create as follows:
-
-In this chapter:
-
-- [Subsection](subsection.md)
-- Another subsection
+- [Long tail](subsection.md)
+- Crowfounding
+- Trade and exchanged of direct services through the internet
