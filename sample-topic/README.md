@@ -1,6 +1,6 @@
 # Economy
 
-by Group 0 (Name1, Name2, Name3)
+by Group 4 (Name1, Name2, Name3)
 
 This sample topic is here as an example for you to replicate in your correspondig topic/section, and will be deleted for the final version of the repository.
 
