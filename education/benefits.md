@@ -1,4 +1,4 @@
-#BENEFITS 
+# BENEFITS 
 
 Expanding educational opportunities is more possible now than it has ever been before. Open education improves the experience of both educators and learners. The main benefits of this new way of learning are the following: 
 
