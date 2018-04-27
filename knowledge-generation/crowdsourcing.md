@@ -7,4 +7,3 @@
 "Crowdsourcing involves obtaining work, information or opinions from a large group of people who submit their data via the Internet, social media and smartphone apps. People involved in crowdsourcing sometimes work as paid freelancers, while others perform small tasks on a voluntary basis. For example, traffic apps encourage drivers to report accidents and other roadway incidents to provide real-time updated information to app users."
 
 ### Sub topic 2
-
