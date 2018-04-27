@@ -1,3 +1,2 @@
 # Long tail
 
-Subsection content.
