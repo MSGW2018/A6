@@ -15,3 +15,5 @@ With innovations and new consumer habits that are being created non-stop in cont
 In all areas of the newsrooms new positions are created and specialists are incorporated, depending on the needs or the demand of the clients. It should be noted that the user experience becomes a fundamental part of any digital equipment, as has already been said; The user experience expert designer, together with the organization's data orientation, indicates the digital maturity of the organization.
 
 In addition to these additions, changes the structure of the newsrooms, which become work spaces in which converge profiles that combine fundamental and transformational skills. The most advanced writing models, digitally speaking, tend to be configured as collaborative networks between different profiles that are grouped around the development of products. In general, the media is committed to diversity, continuous training and innovation.
+
+![evolution](https://www.oxy.edu/sites/default/files/styles/department_regular/public/Fall14Mag_OxyTalk.jpg?w=240)
