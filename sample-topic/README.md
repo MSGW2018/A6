@@ -1,10 +1,8 @@
 # Economy
 
 <<<<<<< HEAD
-by Group 4 (Name1, Name2, Name3)
+by Group 4 (Leire Neira, Amaia Ruano, Myriam Perez, Carla Goberna)
 =======
-by Group 0 (Leire Neira, Amaia Ruano, Myriam Perez, Carla Goberna)
->>>>>>> 551b60509b8d50fb531e1e2aece9a82c02ed0a33
 
 This sample topic is here as an example for you to replicate in your correspondig topic/section, and will be deleted for the final version of the repository.
 
