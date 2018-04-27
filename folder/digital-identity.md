@@ -8,6 +8,8 @@ This doesn’t mean that the Internet is a space to create a parallel life or a 
 
 Precisely, it is necessary to focus on one specific online context: social networks. In the digital reality, social networks not only are platforms that enable users to construct their identities in informational terms, but also to participate in the co-constructions of their contexts. Users may reunite to construct a meaningful context where they may be able to disclose and recognize themselves.
 
+https://youtu.be/uJzuDcyR0WM
+
 However, this disclosure and recognition of Internet users will be based on the concepts of trust and privacy, which can be contradictory sometimes. The construction of the personal identity will always be the result of a competition between what is disclosed and what is hidden about us.
 
 This all is referred to individual identities of users, but we cannot forget that group identities are also an important element that conform our way of being. Basically, the “group identity” concept refers to the social influence within a group, which is based on social categories or on the interpersonal interaction among that group members.
