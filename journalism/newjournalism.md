@@ -1,4 +1,4 @@
-#NEW JOURNALISM AND NEW JOURNALISTS
+# NEW JOURNALISM AND NEW JOURNALISTS
 
 Another characteristic of technological development is that a novel communicative process is being created, a new way of relating everyday reality and reporting on daily events: immersive journalism. Thanks to virtual reality and the experience of video games, it has been seen that it is possible to create a sensory and interactive experience that amplifies the impact of the story. An aesthetic approach is made to the story of events that relates reality and our experience of the world, with the representation of the environment in which we live and the way in which we experience them.
 
@@ -6,7 +6,7 @@ The technologies and virtual reality equipment provide the sensory perception of
 
 The conviction to use immersive characteristics is that this type of experience increases empathy, sensitivity and understanding of the reality that is nourished. Human knowledge is amplified with a first-person experience of a credible world. It's about getting narrative experience. Although it is still an emerging and minority trend, it is increasingly used in the field of journalism. Thus, the media are becoming generators of experiences. And it is that experience is the new reality.
 
-#NEW PROFESSIONAL PROFILES
+# NEW PROFESSIONAL PROFILES
 
 With innovations and new consumer habits that are being created non-stop in contemporary society, it is not surprising that the media have to adapt their professional teams constantly. It is necessary that they incorporate new professional profiles to be able to respond to the new needs of the sector.
 
