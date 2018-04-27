@@ -1,6 +1,6 @@
 # Economy
 
-by Group 0 (Name1, Name2, Name3)
+by Group 0 (Leire Neira, Amaia Ruano, Myriam Perez, Carla Goberna)
 
 This sample topic is here as an example for you to replicate in your correspondig topic/section, and will be deleted for the final version of the repository.
 
