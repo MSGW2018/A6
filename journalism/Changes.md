@@ -27,7 +27,7 @@ Finally, it is also interesting to mention what is known as immersive journalism
 
 ![Journalists](https://colectivonovecento.files.wordpress.com/2013/01/tablet-2.jpg)
 
-- ### Interesting links
+- #### Interesting links
 Here you will be able to find to interesting articles about what we have been talking about:
 - [X] [Tapping Technology to Advance the Future of Journalism. THE NEW YORK TIMES](https://www.nytimes.com/2018/01/03/technology/personaltech/technology-future-journalism.html)
 - [X] [How technology is changing journalism. THE AUSTRALIAN](https://www.theaustralian.com.au/business/media/technology-changing-journalism/news-story/04f969acd1c00ab4f6fafec70d10cc19?sv=d934692e883c7c426f940888542181da)
