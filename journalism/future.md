@@ -15,6 +15,7 @@ Traditional media mainly, throughout history have played the role of informing, 
 
 All from our experience we can create information from different perspectives, from different feelings, or you can even invent it. But, it is true that, that users have the option to issue information does not mean that we have the ability to reach society.
 
+#### Video here:
 [experience journalism](https://www.youtube.com/watch?v=SEVNA8EnTeA)
 
 ### PLACE IN THE FUTURE
