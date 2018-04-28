@@ -7,7 +7,11 @@ Another characteristic of technological development is that a new communicative 
 
 The technologies and virtual reality equipment provide the sensory perception of exploring a space to the digital immersive narrative. They remove the physical border sensory and encourage the sensation of inhabiting another environment. In this way, the participant experiences a virtually created scenario in which a journalistic story is represented: it is placed on the character's digital skin and reconstructs the facts with a sense of presence. The video game, on the other hand, brings capacity for action in a digital space or story. Incorporating the logic of the game into journalism allows reflection and practical experimentation, more alive than ever, which can serve to understand a complex situation.
 
-The conviction to use immersive characteristics is that this type of experience increases empathy, sensitivity and understanding of the reality that is nourished. Human knowledge is amplified with a first-person experience of a credible world. It's about getting narrative experience. Although it is still an emerging and minority trend, it is increasingly used in the field of journalism. Thus, the media are becoming generators of experiences. Experience is the new reality.
+The conviction to use immersive characteristics is that this type of experience increases empathy, sensitivity and understanding of the reality that is nourished. Human knowledge is amplified with a first-person experience of a credible world. It's about getting narrative experience. 
+
+>“That sense of presence that people feel brings them very close to the subject; well, I think that raises some ethical issues too.” _Mandy Rose, co-creator of interactive-documentary organisation i-Docs._
+
+Although it is still an emerging and minority trend, it is increasingly used in the field of journalism. Thus, the media are becoming generators of experiences. Experience is the new reality.
 
 ![inmersive journalism](https://i.ytimg.com/vi/wvXPP_0Ofzc/maxresdefault.jpg)
 
