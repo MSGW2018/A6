@@ -31,5 +31,5 @@ It is true that the other functions have been absorbed by the internet. But rese
 ## INTERESTING LINKS
 
 Here you will be able to find to interesting articles about what we have been talking about:
- [X] [What is the furure of journalism. THE GUARDIAN](https://www.theguardian.com/media/2015/apr/15/what-is-the-future-of-journalism)
- [X] [What is the future of journalism in the digital world. FORBES](https://www.forbes.com/sites/quora/2017/12/18/what-is-the-future-of-journalism-in-the-digital-world/#78f8c5c36a39)
+ - [X] [What is the furure of journalism. THE GUARDIAN](https://www.theguardian.com/media/2015/apr/15/what-is-the-future-of-journalism)
+ - [X] [What is the future of journalism in the digital world. FORBES](https://www.forbes.com/sites/quora/2017/12/18/what-is-the-future-of-journalism-in-the-digital-world/#78f8c5c36a39)
