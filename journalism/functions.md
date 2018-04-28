@@ -9,4 +9,6 @@ JOURNALIST FUNCTIONS
 ## Valoration, interpretation and verification: 
 ### the information can not be pulished without being contrasted first. Is really important to verify and make comparisons with ohter information in order to avoid the particular interests. The jourmalist must be an specialist who can not succumb to its personal thoughts and interests. Moreover, is so important to inform about all the events it happen and not only some of them.
 ## Information transmition:
-### The last function the journalist have is to transmit the information to the audience, to the recipient in understable way. Is important to know the audience needs and to adapt the information code to those needs. 
+### The last function the journalist have is to transmit the information to the audience, to the recipient in understable way. Is important to know the audience needs and to adapt the information code to those needs.
+
+![Read more](https://www.ucas.com/ucas/after-gcses/find-career-ideas/explore-jobs/job-profile/magazine-journalist)
