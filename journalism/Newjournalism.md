@@ -20,3 +20,10 @@ In all areas of the newsrooms new positions are created and specialists are inco
 In addition to these novelties, the structure of the newsrooms is changed, which become work spaces in which converge profiles that combine fundamental and transformational skills. The most advanced writing models, digitally speaking, tend to be configured as collaborative networks between different profiles that are grouped around the development of products. In general, the media is committed to diversity, continuous training and innovation.
 
 ![evolution](https://www.oxy.edu/sites/default/files/styles/department_regular/public/Fall14Mag_OxyTalk.jpg?w=240)
+
+## INTERESTING LINKS
+
+Here you will be able to find some interesting links about what we have been talking about.
+
+- [A video about data journalists](https://www.youtube.com/watch?v=h2zbvmXskSE)
+- [The Inmersive Journalism Lab](http://www.immersivejournalism.es/) 
