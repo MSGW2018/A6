@@ -1,6 +1,7 @@
  
 JOURNALIST FUNCTIONS
-# A good journalist must accomplish some functions and obligations. The journalist principal function is to informe with a totally veracity and objectivity about the events, acts and incidents that have place all over the world. But the journalists must accomplish other functions also, such as the following ones. 
+
+## A good journalist must accomplish some functions and obligations. The journalist principal function is to informe with a totally veracity and objectivity about the events, acts and incidents that have place all over the world. But the journalists must accomplish other functions also, such as the following ones. 
 
 ## Selection: 
 ### The journalist must choose and select the information and localize it. The also have to put their knowledge in relation with the society, what means that journalists must be good documented. 
