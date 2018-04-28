@@ -7,7 +7,7 @@ The extensive use of Information and Communication Technologies is one of the ch
 
 In this way, nowadays, it is increasingly common to require people with extensive technological skills to access jobs in a wide variety of professions. Among them, we must mention journalism, since it has experienced significant changes. We have evolved from a traditional journalism to an increasingly digital journalism. 
 
-! [Technology](https://i.imgur.com/5V6Y7.mo.jpg)
+! [Technology](http://www.studentworldonline.com/userfiles/images/digital%20journalism.jpg)
 
 ### Special and particular characteristics
 
