@@ -9,6 +9,8 @@ The technologies and virtual reality equipment provide the sensory perception of
 
 The conviction to use immersive characteristics is that this type of experience increases empathy, sensitivity and understanding of the reality that is nourished. Human knowledge is amplified with a first-person experience of a credible world. It's about getting narrative experience. Although it is still an emerging and minority trend, it is increasingly used in the field of journalism. Thus, the media are becoming generators of experiences. Experience is the new reality.
 
+![inmersive journalism](https://i.ytimg.com/vi/wvXPP_0Ofzc/maxresdefault.jpg)
+
 ## NEW PROFESSIONAL PROFILES
 
 With innovations and new consumer habits that are being created non-stop in contemporary society, it is not surprising that the media have to adapt their professional teams constantly. It is necessary to incorporate new professional profiles to be able to respond to the new needs of the sector.
