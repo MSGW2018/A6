@@ -7,7 +7,7 @@ The extensive use of Information and Communication Technologies is one of the ch
 
 In this way, nowadays, it is increasingly common to require people with extensive technological skills to access jobs in a wide variety of professions. Among them, we must mention journalism, since it has experienced significant changes. We have evolved from a traditional journalism to an increasingly digital journalism. 
 
-! [Technology](http://www.studentworldonline.com/userfiles/images/digital%20journalism.jpg)
+![Technology](http://www.studentworldonline.com/userfiles/images/digital%20journalism.jpg)
 
 ### Special and particular characteristics
 
@@ -15,7 +15,7 @@ One of the most important aspects of the digital journalism is the expansion of 
 
 At the same time, it is well known that the network has allowed a level of information, connectivity and organization that we did not have before. Like this, little by little, the network has incorporated the vast majority of traditional media, such as, the press, the radio or the television. Like this, we have to bear in mind that this incorporation of traditional media has affected the print media sector in terms of employment as few. In fact, the incorporation of digital profiles has been growing and the media has had the need to strengthen their workforce in order to respond to the new needs of the sector. 
 
-! [World](https://www.itforum365.com.br/wp-content/uploads/2017/10/mundo-conectado.jpg)
+![World](https://www.itforum365.com.br/wp-content/uploads/2017/10/mundo-conectado.jpg)
 
 ### New ways of doing journalism
 
