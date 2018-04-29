@@ -6,7 +6,7 @@ If we take a close look to this term, we can find out that it is the result of t
 
 Activism itself is no crime, but when your are accessing restricted platforms and thus becoming a hacker, the law will put you in trouble. This is no surprise since it would be way too chaotic if anyone had total freedom of speech (and access) to every platform. But when it comes to making noise online, a hacktivist is on top of the ranking for sure. One of the world’s most famous hacktivists is nicknamed Anonymous. From 2008 to 2012 he managed to recruit a large number of Tunisian hackers to help take down eight governments sites in what was called **Operation _Tunisia_**. (203 words).
 
-
+<center> <img src"https://betanews.com/wp-content/uploads/2014/05/Hacker.jpg" height="400" width="650"></center>
 
 
 
