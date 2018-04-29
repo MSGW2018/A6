@@ -21,9 +21,9 @@ In addition, the form of representation of those users is not only by the use of
 
 As it is not strange, this personal information is easier to find on the internet and this have carry many issues. Personal information can be used with criminal objectives, so many websites worked in privacy policies so user’s information is safe and difficult to access.
 
-![GitHub Logo] (https://cdn-images-1.medium.com/max/1600/1*MXKu3-9szJkM5ciBrfjCoQ.jpeg)
+![GitHub Logo](https://cdn-images-1.medium.com/max/1600/1*MXKu3-9szJkM5ciBrfjCoQ.jpeg)
 
-The [**digital footprint**] (https://en.wikipedia.org/wiki/Digital_footprint) or digital shadow is the combination of “digital activities, actions, contributions and communications” done by a user on the Internet.
+The [**digital footprint**](https://en.wikipedia.org/wiki/Digital_footprint) or digital shadow is the combination of “digital activities, actions, contributions and communications” done by a user on the Internet.
 There are two types of digital footprints: passive and active. The first refers to the collected data without the user knowing it. The second one is the one that has information that has been searched and the activities that have been done by the user because he or she decided to do it.
 
 Digital footprints have became an issue in terms of digital privacy, security and reputation. The private information these footprints contain can be used by companies in whichever way they want.
