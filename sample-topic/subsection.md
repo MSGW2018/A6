@@ -9,4 +9,4 @@ The Internet has changed the rules of distribution and market, which seemed immo
 The sum of small niche markets, that is, the specific and defined customer groups, often supposes a volume of business greater than the large mass of clients.
 >>>>>>> 8465935a3a1e9a7843ed656f5f3aab03260f4dc7
 It must be said, that the long tail theory is based on three things: the democratization of access to production, the democratization of access to distribution and connecting demand with supply.
-
+<b> Long Tail and SEO </b>
