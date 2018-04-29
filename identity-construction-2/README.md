@@ -9,4 +9,4 @@ To understand the process of the identity construction through the internet, it 
 In this chapter:
 
 - [Digital identity](digital-identity.md)
-- Online reputation
+- [Online reputation](online-reputation.md)
