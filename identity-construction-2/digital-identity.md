@@ -27,3 +27,12 @@ The [**digital footprint**](https://en.wikipedia.org/wiki/Digital_footprint) or 
 There are two types of digital footprints: passive and active. The first refers to the collected data without the user knowing it. The second one is the one that has information that has been searched and the activities that have been done by the user because he or she decided to do it.
 
 Digital footprints have became an issue in terms of digital privacy, security and reputation. The private information these footprints contain can be used by companies in whichever way they want.
+
+
+## References ##
+### Digital identity ###
+
+- [**Digital identity** | *Wikipedia*](https://en.wikipedia.org/wiki/Digital_identity)
+- [**Online identity** | *Wikipedia*](https://en.wikipedia.org/wiki/Online_identity)
+- [**Personally identifiable information** | *Wikipedia*](https://en.wikipedia.org/wiki/Personally_identifiable_information)
+- [**Digital footprint** | *Wikipedia*](https://en.wikipedia.org/wiki/Digital_footprint)
