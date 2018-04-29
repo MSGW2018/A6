@@ -16,3 +16,4 @@ In this project we will give a general overview about this interesting alternati
 - [MOOCs](MOOCs.md)
 - [Open education global conference](openeducationglobalconference.md)
 - [Future](future.md)
+- [Quotes](quotes.md)
