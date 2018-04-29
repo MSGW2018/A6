@@ -15,4 +15,9 @@ In this project we will give a general overview about this interesting alternati
 - [Limitations](limitations.md)
 - [MOOCs](MOOCs.md)
 - [Open education global conference](openeducationglobalconference.md)
+<<<<<<< HEAD
 -
+=======
+- [Future](future.md)
+- [Quotes](quotes.md)
+>>>>>>> 96d0ab9e9cb3e3936023ead40379111f405bfbf0
