@@ -11,6 +11,9 @@ As the cases of digital disorders are on the rise, here are some tips to keep yo
 * Keep balance and moderation in your technology use. 
 * Never sleep with your phone or tablet in your bed or on your bedside table. 
 * Invest in new games which do not use technology. 
+
+
 [Source](https://netsanity.net/digital-disorders/)
+
 ## How does digital disorder change the user's role in knowledge generation?
 Technology allows users to share ideas or concepts much more easily and quickly than previous manners of sharing. This helps knowledge generation as different concepts or ideas can get a get a new perspective on the issue. However, the digital disorders change the user's role in knowledge generation as people are not necessarily adding to the knowledge. Users are strictly consuming and very few are generating new information. 
