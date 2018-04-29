@@ -9,7 +9,7 @@ The technologies and virtual reality equipment provide the sensory perception of
 
 The conviction to use immersive characteristics is that this type of experience increases empathy, sensitivity and understanding of the reality that is nourished. Human knowledge is amplified with a first-person experience of a credible world. It's about getting narrative experience. 
 
->“That sense of presence that people feel brings them very close to the subject; well, I think that raises some ethical issues too.”_Mandy Rose, co-creator of interactive-documentary organisation i-Docs._
+>“That sense of presence that people feel brings them very close to the subject; well, I think that raises some ethical issues too.” _Mandy Rose, co-creator of interactive-documentary organisation i-Docs._
 
 Although it is still an emerging and minority trend, it is increasingly used in the field of journalism. Thus, the media are becoming generators of experiences. Experience is the new reality.
 
