@@ -21,3 +21,12 @@ There are some **principles** which are characteristic of online reputation mana
 5. Use the social media, and keep all the profiles updated. If you use them correctly, you can get a good position on the internet.
 6. Keep your personal information apart of all the identifiable information. Unfortunately, it can be used to hijack your personal information.
 7. Be aware of the fact that everything that we upload or publish online, it’s part of our online reputation. 
+
+
+## References ##
+### Online reputation ###
+
+- [**Digital footprint** | *Wikipedia*](https://en.wikipedia.org/wiki/Digital_footprint)
+- [**Online Reputation Management - Interview to Michael Fertik** | *Forbes*](https://www.forbes.com/sites/learnvest/2013/11/20/10-things-you-need-to-know-about-online-reputation-management/2/#7de70a95686d)
+- [**Online Reputation Management** | *ReputationDefender.com*](https://www.reputationdefender.com/what-online-reputation-management)
+- [**Reputation Management** | *Wikipedia*](https://en.wikipedia.org/wiki/Reputation_management)
