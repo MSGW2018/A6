@@ -11,4 +11,4 @@ We will be looking at these subtopics:
 - [Journalist functions](functions.md)
 - [Changes in the trade with the arrival of technology](changes.md)
 - [New journalism and new journalists](newjournalism.md)
-- [The future of media and journalism](future.md)
+- [The future of the media and journalism](future.md)
