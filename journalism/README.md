@@ -1,5 +1,5 @@
 
-# **JOURNALISM**
+# JOURNALISM
 
 > By Group 3 (Garazi, Graxi, Maialen and Aroia)
 
