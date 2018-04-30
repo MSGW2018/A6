@@ -1,4 +1,4 @@
-E-government:
+# E-government:
 
 We can define *E-government* as the application of Information and Communication Technologies to governments functions and procedures with the purpose of increasing efficiency, transparency and citizen participation. This is a clear answer to the technological times that we are living in. Sooner or later, all forms of governments are going to have to become e-governments in a larger or smaller scale if they want to keep up with society and relate to their supporters. 
 
