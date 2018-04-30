@@ -1,3 +1,0 @@
-# Subsection title
-
-Subsection content.
