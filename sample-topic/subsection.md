@@ -1,4 +1,4 @@
-# Long tail
+# LONG TAIL
 
 <<<<<<< HEAD
 =======
