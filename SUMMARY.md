@@ -1,11 +1,9 @@
 # Table of contents
 
-- [Sample topic](sample-topic/README.md)
-    1. [Subsection](sample-topic/subsection.md)
-- Identity construction
-- Journalism
-- Knowledge generation
-- Economy
-- Politics
-- Education
-- Software development (optional) 
+- [Identity construction 1](identity-construction/REAMDE.md)
+- [Identity construction 2](identity-construction-2/REAMDE.md)
+- [Journalism](journalism/README.md)
+- [Knowledge generation](knowledge-generation/README.md)
+- [Economy](economy/README.md)
+- [Politics](politics/README.md)
+- [Education](education/README.md)
