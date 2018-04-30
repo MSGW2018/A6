@@ -1,9 +1,9 @@
 # Table of contents
 
-- [Identity construction 1](identity-construction/REAMDE.md)
+- [Identity construction 1](identity-construction/README.md)
 	+ [Digital identity](identity-construction/digital-identity.md)
 	+ [Online reputation](identity-construction/online-reputation.md)
-- [Identity construction 2](identity-construction-2/REAMDE.md)
+- [Identity construction 2](identity-construction-2/README.md)
 	+ [Digital identity](identity-construction-2/digital-identity.md)
 	+ [Online reputation](identity-construction-2/online-reputation.md)
 - [Journalism](journalism/README.md)
