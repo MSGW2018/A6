@@ -97,9 +97,50 @@ Once the pull request is created, we will use that page to discuss your modifica
 
 ## Stage 2: revision
 
----
+For the revision stage, each of you have been assigned between 2 and 3 pages by other groups to revise. Check [the `Issues` tab](https://github.com/MSGW2018/A6/issues) and search for `Everything assigned to you` in the `Filters` dropdown in the search box to easily access the issue with your list of assignations. 
 
-**WORK IN PROGRESS**
+Remember that the revision stage is an individual activity. As you have in [the assignment description](https://alud.deusto.es/mod/assign/view.php?id=15863), it is an individual responsibility to assess and contribute to some of your classmates' pages. As such, your individual task will be to review and edit them. 
+
+Contributions should include:
+
+- Substantive textual additions or editing (e.g. reorganizing/revising text, adding sections, etc.).
+- Thorough and accurate copyediting/proofreading (e.g. grammar, spelling, fact-checking, documentation).
+- Adding internal and external links and tags.
+- Adding other media (e.g. adding an appropriate YouTube video).
+
+Also remember that, to document your individual work, you must do so using your personal account. The individual evaluation will be carried out only on what is found through your recorded activity in this repository.
+
+There are two ways in which you can carry out revisions on your assigned pages: by actually editing them, or by discussing your suggestions for edition in your issue. 
+
+### Actually editing the files
+
+The most usual would be that you actually edit the files that you a reviewing to add your contributions and modifications to the page. To do so:
+
+- Create a branch named `yourusername-rev`
+- Using GitHub Desktop, switch to that branch 
+- Always pull first, because there are other classmates reviewing the same content and they may have pushed modifications since the last time you pulled
+- Modify the files that you are reviewing, commit changes (remember to add descriptive commit messages, which is still more important now that you are editing content by someone else), and push when necessary
+- When you have finished your modifications and contributions to one file, check it in your issue
+- When you have finished your modifications to all your assigned files, open a pull request to merge your branch to the `master` branch: `base:master` :arrow_backward: `compare:yourusername-rev`. Remember to:
+   + Give a general description of your contributions to the content
+   + Mention your issue (you mention an issue by giving its number like this: `#00` )
+   + Mention the group that created the content (you mention all members in a group like this: `@MSGW2016/Group0`)
+   + Add me as a reviewer (in the righthand side of the `Open a pull request` screen)
+   + Set the Milestone to `Revision stage`
+
+### Discussing suggestions 
+
+It may happen that you consider major revisions are necessary but beyond your responsibility as a reviewer. In that case, you could add a comment to your issue mentioning the group responsible for the pages (you mention all members in a group like this: `@MSGW2016/Group0`), describing your suggestion as thoroughly as possible.
+
+### Doing additional reviews
+
+The ones you have in your assigned issue are the **compulsory and minimum reviews** you need to make for this assignment. Feel free to **make as many additional reviews as you like**, as they will contribute to improve your final grade and also the overall quality of the document.
+
+Make sure you add them as task-list elements to a comment in your issue to make it easier for me to track. The syntax to create a task list element is as follows:
+
+```
+- [ ] [Page title](page-url.md)
+```
 
 ## Stage 3: final merge
 
