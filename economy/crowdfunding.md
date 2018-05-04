@@ -1,10 +1,10 @@
 # CROWDFUNDING
 
-![](https://www.google.es/search?q=crowdfunding+what+is+it&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiOrbWVz9raAhVE7BQKHUg0CaoQ_AUICygC&biw=1280&bih=540#imgrc=IawgQpqvN6Kt4M:)
+![What is crowdfunding?](https://www.google.es/search?q=crowdfunding+what+is+it&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiOrbWVz9raAhVE7BQKHUg0CaoQ_AUICygC&biw=1280&bih=540#imgrc=IawgQpqvN6Kt4M:)
 
 Crowdfunding is the search for funding for our project through the set of small contributions made by many people. In this way, among many small investors it is possible to reach the amounts that we need to undertake without having to resort to the traditional means of financing.
 
-As you know, this mechanism has gained ground in recent months to finance projects, companies or people who are unattended by traditional banking, because there are platforms on the internet that raise money from individuals who are willing to donate, lend or invest resources.
+This mechanism has gained ground in recent months to finance projects, companies or people who are unattended by traditional banking, because there are platforms on the internet that raise money from individuals who are willing to donate, lend or invest resources.
 
 There are many modalities, and depending on where your business idea is or how you want to return the investment made to your patrons, it will be convenient to opt for one or the other.
 
