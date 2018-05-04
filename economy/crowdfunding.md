@@ -8,7 +8,7 @@ As you know, this mechanism has gained ground in recent months to finance projec
 
 There are many modalities, and depending on where your business idea is or how you want to return the investment made to your patrons, it will be convenient to opt for one or the other.
 
-## **The most common modalities
+## **The most common modalities**
 
 **CROWFUNDING OF DONATIONS** 
 
@@ -25,5 +25,5 @@ Here the aim is to capture amounts that range between € 20,000 and € 200,000
 **CROWFUNDING OF LOAN, THE CROWDLENDING** 
 Here what is sought is financing in exchange for paying an interest to the investor, as if it were a bank but with many people behind your idea supported. Although it is true that in general the average interest is higher than in a bank, depending on the risk of the business idea, and ranges from 5 to 20%.
 
-[Wacth this video](https://www.youtube.com/).
+Wacth more [Video](https://www.youtube.com/).
 
