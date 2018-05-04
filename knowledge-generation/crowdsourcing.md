@@ -19,7 +19,7 @@ Crowdwisdom allows users to ask questions in front of a big online audience that
 2. *Crowdfunding*:
 Crowdfunding gives people the opportunity to get fundings for a specific project by a large group of people. Everyone can publish a project for which he or she needs funding and other users can contribute to the projects by donating money. One example for crowdfunding is the website [Kickstarter](https://www.kickstarter.com/). Every kind of project can be published - from gadgets to movie projects.
 3. *Crowdsourced design*:
-Crowdsoucred designs are projects that are founded for a large group of people to design something (for exmaple a website or an app). An example for a crowdsourced design is the ["Rally Fighter car"](http://www.rallyfighterusa.com/) - designed by a [community](https://www.hongkiat.com/blog/what-is-crowdsourcing/).
+Crowdsoucred designs are projects that are founded by a large group of people to design something (for exmaple a website or an app). An example for a crowdsourced design is the ["Rally Fighter car"](http://www.rallyfighterusa.com/) - designed by a [community](https://www.hongkiat.com/blog/what-is-crowdsourcing/).
 
 ## Pros and Cons of crowdsourcing ##
 
@@ -29,13 +29,13 @@ Higher probability of success: digital crowdsourcing platforms enable people to 
 Saves time and money: people come together digitally | Danger of loss of image: if the product/project you are presenting to the people is not as well as expected
 Marketing measure - Collect data and customers contacts: open projects can call attention from possible customers (advertisement) and companies can collect data from a target group | Danger of internal conflict: people who are responsible for a project should be integrated at all time, if not they could feel threatened
 Access to resources: the user can advertise and sell their skills on platforms - allows more people to access a universally shared set of resources | Cost of management: outsourcers have to deal with workers directly - might result in spending time and money on managing the resources effectively
-Transparency - real world data: user reviews on services and products makes the transaction of data more transparent - highly rated users can be rewarded and fake profiles can be pointed out easily | Quality control: people engage directly, therefore, safety and quality control can become an issue since it is easier to create a fake identity online than in real life
+Transparency - real world data: user reviews on services and products, which makes the transaction of data more transparent - highly rated users can be rewarded and fake profiles can be pointed out easily | Quality control: people engage directly, therefore, safety and quality control can become an issue since it is easier to create a fake identity online than in real life
 
 Sources: [ispo.com](https://www.ispo.com/en/markets/id_79709436/crowdsourcing-pros-and-cons-and-how-you-can-profit-from-it.html) and [The Autsralian Bsuiness Review](https://www.theaustralian.com.au/business/business-spectator/the-pros-and-cons-of-crowdsourcing/news-story/9ec9c88a62137d0e425bdfecb2c623ff)
 
 ## How does crowdsourcing changes the user's role in knowledge generation ##
 
-Crowdsourcing allows individuals to collectively contribute ideas, time and expertise to a project or cause. Each individual is involved in the creation of knowledge, and people contribute to something bigger than themselves, which gives them a high level of satisfaction. It becomes easier not only to access information online but also to contribute to it. Everyone with access to the internet is able to have an impact on projects. With this ability, there is also resposibility. Crowdsourcing does not work if only a few people participate. 
+Crowdsourcing allows individuals to collectively contribute ideas, time and expertise to a project or cause. Each individual is involved in the creation of knowledge, and people contribute to something bigger than themselves, which gives them a high level of satisfaction. It becomes easier not only to access information online but also to contribute to it. Everyone with access to the Internet is able to have an impact on projects. With this ability, there is also resposibility. Crowdsourcing does not work if only a few people participate. 
 
 *Example* **Person A** speaks five lanugages fluently and helps other users to translate documents from one language into another. But **person A** does not know a lot about taxes and seeks for help online. **Person B**, who is an expert in that field, helps out **person A**. Either this is done for an amount of money or for free.
 
