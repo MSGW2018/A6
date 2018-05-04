@@ -19,7 +19,7 @@ The most common practice is sourcing the public for content creation. Wikipedia,
 1. *Crowdwisdom*
 Crowdwisdom allows users to ask questions in front of a big online audience that can help answering these questions. An example for crowdwisdom is the website [Yahoo Answers](https://answers.yahoo.com/).
 2. *Crowdfunding*
-Crowdfunding gives people the opportunity to get fundings for a specific project by a large group of people. Everyone can publish a project for which he or she needs funding and other users can contribute to the projects by donating money. One example for crowdfunding is the website [kickstarter](https://www.kickstarter.com/). Every kind of project can be published - from gadgets to movie projects.
+Crowdfunding gives people the opportunity to get fundings for a specific project by a large group of people. Everyone can publish a project for which he or she needs funding and other users can contribute to the projects by donating money. One example for crowdfunding is the website [Kickstarter](https://www.kickstarter.com/). Every kind of project can be published - from gadgets to movie projects.
 3. *Crowdsourced design*
 Crowdsoucred designs are projects that are founded for a large group of people to design something (for exmaple a website or an app). An example for a crowdsourced design is the ["Rally Fighter car"](http://www.rallyfighterusa.com/) - designed by a community.
 [source](https://www.hongkiat.com/blog/what-is-crowdsourcing/)
