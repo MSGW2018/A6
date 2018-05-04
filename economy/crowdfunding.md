@@ -8,7 +8,7 @@ As you know, this mechanism has gained ground in recent months to finance projec
 
 There are many modalities, and depending on where your business idea is or how you want to return the investment made to your patrons, it will be convenient to opt for one or the other.
 
-These are the most common modalities:
+## The most common modalities
 
 **CROWFUNDING OF DONATIONS** 
 
