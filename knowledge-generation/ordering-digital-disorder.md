@@ -11,8 +11,8 @@ Some of these disorders are called Nomophobia, Technoference, Fauxcellarm, Cyber
 
 ## What can I do to be sure this doesn't happen to me?
 
-As the cases of digital disorders are on the rise, here are some tips to keep yourself safe. 
-* Create areas and make times when you do not use technology. 
+As the cases of digital disorders are on the rise, here there are some tips to keep yourself safe. 
+* Create areas and times when you do not use technology. 
 * Keep balance and moderation in your technology use. 
 * Never sleep with your phone or tablet in your bed or on your bedside table. 
 * Invest in new games which do not use technology. 
