@@ -21,3 +21,8 @@ By using OER, students are exposed to different educational resources that are i
 
 Education is the key to advancing society’s greatest goals, from a building a strong economy to leading healthy lives. By increasing access to education and creating a platform for more effective teaching and learning, Open Education benefits us all.
 
+### INTERESTING LINKS
+
+Here you would be able to find some interesting videos about the importance of the quality of education:
+1. Speaking to UN News, newly appointed UN Messenger of Peace Malala Yousafzai called for greater investment in girls’ education: https://www.youtube.com/watch?v=qw2MzaknG9o9
+1. In this short animated video, brought to you by Global Citizen and TakePart World: https://www.youtube.com/watch?v=SWHdr0_9RVc
