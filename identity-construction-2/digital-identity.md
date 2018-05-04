@@ -28,7 +28,7 @@ There are two types of digital footprints: passive and active. The first one ref
 
 Digital footprints have become an issue in terms of digital privacy, security and reputation. The private information those footprints contain can be used by companies in whatever way they want.
 
-([![An interesting video about digital identity](https://img.youtube.com/vi/https://youtu.be/uJzuDcyR0WM/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/uJzuDcyR0WM))
+([![An interesting video about digital identity](https://img.youtube.com/vi/uJzuDcyR0WM)](https://www.youtube.com/watch?v=uJzuDcyR0WM)
 
 ## References ##
 ### Digital identity ###
