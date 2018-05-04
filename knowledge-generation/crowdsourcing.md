@@ -31,7 +31,7 @@ Marketing measure - Collect data and customers contacts: open projects can call 
 Access to resources: the user can advertise and sell their skills on platforms - allows more people to access a universally shared set of resources | Cost of management: outsourcers have to deal with workers directly - might result in spending time and money on managing the resources effectively
 Transparency - real world data: user reviews on services and products makes the transaction of data more transparent - highly rated users can be rewarded and fake profiles can be pointed out easily | Quality control: people engage directly, therefore, safety and quality control can become an issue since it is easier to create a fake identity online than in real life
 
-Sources:[ispo.com](https://www.ispo.com/en/markets/id_79709436/crowdsourcing-pros-and-cons-and-how-you-can-profit-from-it.html) and [The Autsralian Bsuiness Review](https://www.theaustralian.com.au/business/business-spectator/the-pros-and-cons-of-crowdsourcing/news-story/9ec9c88a62137d0e425bdfecb2c623ff)
+Sources: [ispo.com](https://www.ispo.com/en/markets/id_79709436/crowdsourcing-pros-and-cons-and-how-you-can-profit-from-it.html) and [The Autsralian Bsuiness Review](https://www.theaustralian.com.au/business/business-spectator/the-pros-and-cons-of-crowdsourcing/news-story/9ec9c88a62137d0e425bdfecb2c623ff)
 
 ## How does crowdsourcing changes the user's role in knowledge generation ##
 
