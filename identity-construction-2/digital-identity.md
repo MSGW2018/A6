@@ -21,7 +21,7 @@ In addition, the identity of those users is not only represented by their nickna
 
 Not surprisingly, that personal information is easier to find on the Internet which has brought many issues. Personal information can be used with criminal objectives, so many websites have been working on privacy policies to ensure that information is safe and difficult to access.
 
-![GitHub Logo](https://cdn-images-1.medium.com/max/1600/1*MXKu3-9szJkM5ciBrfjCoQ.jpeg)
+![GitHub Logo](https://cdn-images-1.medium.com/max/1600/1*MXKu3-9szJkM5ciBrfjCoQ.jpeg=100x20)
 
 The [**digital footprint**](https://en.wikipedia.org/wiki/Digital_footprint) or digital shadow is the combination of “digital activities, actions, contributions and communications” done by a user on the Internet.
 There are two types of digital footprints: passive and active. The first one refers to the data collected without the user's knowledge. The second one is the one contains the information that the user has been searching and the activities that he or she has done deliverately. 
