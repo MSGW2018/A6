@@ -1,6 +1,6 @@
 ## Digital identity
 
-Nowadays, people are living a progressive and inevitable convergence of the offline and the online realities; said in other words, we are immersed in the mixture of the physical and the virtual lives. This fact needs to be taken into account when constructing the identity of Internet users.
+It is important to define what exactly the meaning is behind "Digital Identity". Digital Identity is an online identity adopted by an individual through cyberspace, and users may also creat various digital identitites through multiple communities. Nowadays, people are living a progressive and inevitable convergence of the offline and the online realities; said in other words, we are immersed in the mixture of the physical and the virtual lives. This fact needs to be taken into account when constructing the identity of Internet users.
 
 This identity is created through what we are (our “actual self”, made of information describing our features) and what we would like to be (our “ideal self”, made of information describing our expectations or the social expectations about us). So, personal identity is always constituted of both reality and imagination or virtuality. However, the main idea is that now these two components are merging into the same.
 
