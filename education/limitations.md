@@ -1,6 +1,6 @@
 # LIMITATIONS
 
-Despite its numerous advantages, OER are still in the early adoption stage. The srepad of their usage is still slowed by a series of factors. The main limitations that open education faces nowadays are the following:
+Despite its numerous advantages, Open Educational Resources are still in the early adoption stage due to the fact that its development and promotion is often motivated by a desire to provide an improved educational paradigm. Moreover, we need to know that the srepad of their usage is still slowed by a series of factors. In this way, the main limitations that open education faces nowadays are the following:
 
 1. Quality issues
 - Since many OER repositories allow any user to create an account and post material, some resources may not be relevant and/or accurate.
@@ -13,3 +13,5 @@ Despite its numerous advantages, OER are still in the early adoption stage. The 
 
 4. Technological issues
 - Some students may have trouble using some OERs if they have a slow or erratic internet connection. Other OERs may require software that students don’t have and that they may not be able to afford.
+
+Finally, we can mention a recommendation of the Paris OER Declaration: *"Encourage the development and adaptation of OER in a variety of languages and cultural contexts. Favour the production and use of OER in local languages and diverse cultural  contexts to ensure their relevance and accessibility. Intergovernmental organisations should encourage the sharing of OER across languages and cultures, respecting indigenous knowledge and rights".* 
