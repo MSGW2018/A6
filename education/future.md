@@ -1,4 +1,4 @@
-# Internationalization of higher education
+# INTERNATIONALIZATION OF HIGHER EDUCATION
 
 The term “internationalization” covers different things, and includes different dimensions, with different levels of higher education. The definition of internationalization of higher education varies and depends on the stakeholder groups, government, private sector, institution, faculty member, academic discipline and student. These differing perspectives result in several reasons for many program approaches to internationalization of higher education. A commonly accepted definition in this study is Knight’s definition, that says: “Internationalization of higher education is the process of integrating an international/intercultural dimension into the teaching, research and service elements of an institution”.
 
