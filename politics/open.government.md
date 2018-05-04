@@ -1,4 +1,4 @@
-#Open Government
+# Open Government
 
 **The Internet, social media, phones, and all the different contemporary gadgets** that allow citizens to communicate have changed our life dramatically. From our day to day relationships, to our long time friends and partners... every communication channel has experienced a change in the last two decades and so has the way of accessing the governments platforms, products and services.
 
