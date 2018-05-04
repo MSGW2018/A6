@@ -8,5 +8,11 @@ Activism itself is no crime, but when your are accessing restricted platforms an
 
 <center> <img src"https://betanews.com/wp-content/uploads/2014/05/Hacker.jpg" height="400" width="650"></center>
 
+#Effects of Hacktivism 
 
+| Positive effects of Hacktivism | Negative Effects of Hacktivism | 
+| -------------------------------| -------------------------------|
+| Hacktivism is just an option to express disapproval in the internet. | Users can be affected in the ways of identity theft.| 
+| Illegal activities on the Internet can be avoided, e.g. child pornography on the Internet can be stopped. Crimes like child pornography is terrible and publishing lists of the viewers can help to find those comitting the crimes. | Massive financial losses for those who used e-commerce.| 
+|--------------------------------| Hacktivism can do harm to businesses in the way of blocking the website.|
 
