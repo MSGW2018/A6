@@ -1,4 +1,4 @@
-# CROWDFUNDING
+# **CROWDFUNDING**
 
 ![](https://www.google.es/search?q=crowdfunding+what+is+it&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiOrbWVz9raAhVE7BQKHUg0CaoQ_AUICygC&biw=1280&bih=540#imgrc=IawgQpqvN6Kt4M: )
 
@@ -8,7 +8,7 @@ As you know, this mechanism has gained ground in recent months to finance projec
 
 There are many modalities, and depending on where your business idea is or how you want to return the investment made to your patrons, it will be convenient to opt for one or the other.
 
-## The most common modalities
+## **The most common modalities
 
 **CROWFUNDING OF DONATIONS** 
 
@@ -25,4 +25,5 @@ Here the aim is to capture amounts that range between € 20,000 and € 200,000
 **CROWFUNDING OF LOAN, THE CROWDLENDING** 
 Here what is sought is financing in exchange for paying an interest to the investor, as if it were a bank but with many people behind your idea supported. Although it is true that in general the average interest is higher than in a bank, depending on the risk of the business idea, and ranges from 5 to 20%.
 
-<video src="https://www.youtube.com/watch?v=8b5-iEnW70k" width="640" height="480"></video>
+[Wacth this video](https://www.youtube.com/).
+
