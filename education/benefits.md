@@ -25,4 +25,4 @@ Education is the key to advancing society’s greatest goals, from a building a 
 
 Here you would be able to find some interesting videos about the importance of the quality of education:
 1. Speaking to UN News, newly appointed UN Messenger of Peace Malala Yousafzai called for greater investment in girls’ education: https://www.youtube.com/watch?v=qw2MzaknG9o9
-1. In this short animated video, brought to you by Global Citizen and TakePart World: https://www.youtube.com/watch?v=SWHdr0_9RVc
+1. A short animated video, by Global Citizen and TakePart World: https://www.youtube.com/watch?v=SWHdr0_9RVc
