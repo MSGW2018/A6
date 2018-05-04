@@ -8,7 +8,7 @@ As you know, this mechanism has gained ground in recent months to finance projec
 
 There are many modalities, and depending on where your business idea is or how you want to return the investment made to your patrons, it will be convenient to opt for one or the other.
 
-These are the most common modalities:
+These are the **most common modalities**:
 
 **Crowdfunding of donations.** This is the only case in which investors do not get anything in return for the donation, except for the personal satisfaction of having put their two cents in a project and see how it grows. Generally, this kind of Crowdfunding projects tend to be social, ecological and, to a lesser extent, business projects themselves, although there are cases.
 
