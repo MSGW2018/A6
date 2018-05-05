@@ -14,7 +14,7 @@ It must be said, that the long tail theory is based on three things: _the democr
 
 ** Long Tail and SEO **
 
-If we focus the Long Tail on Internet positioning (SEO), we find that the sum of searches of Internet users with less frequent keywords will probably translate into a higher volume than usual. Let's see a practical example: if we want to position an online store of sports shoes, we will probably get better results using more specific keywords as «squash shoes» than the general form of «sports shoes».
+If we focus the Long Tail on Internet positioning (SEO), we find that the sum of searches of Internet users with less frequent keywords will probably translate into a higher volume than usual. Let's see a practical example: if we want to position an online store of sports shoes, we will probably get better results using more specific keywords as: «squash shoes» than the general form of «sports shoes».
 
 The ** advantages ** of the specific forms would be:
 
