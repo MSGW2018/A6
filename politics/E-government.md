@@ -2,7 +2,7 @@
 
 A worldwide revolution in information and communications technologies is occurring.  The Internet, the personal computer, and the mobile phone are fundamentally changing our lives - affecting the way we live, work, learn and interact. Governments around the world are recognizing the value of e-Government. :globe_with_meridians:
 
-[Image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiZ3cTxye7aAhWI1hQKHTf_D74QjRx6BAgBEAU&url=https%3A%2F%2Fwww.mindomo.com%2Fes%2Fmindmap%2Fe-government-2273d19d17604a2780afcb10d9ac0e32&psig=AOvVaw0-XsVIB63sHRDmAs_ASOPs&ust=1525609890524604)
+![Image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiZ3cTxye7aAhWI1hQKHTf_D74QjRx6BAgBEAU&url=https%3A%2F%2Fwww.mindomo.com%2Fes%2Fmindmap%2Fe-government-2273d19d17604a2780afcb10d9ac0e32&psig=AOvVaw0-XsVIB63sHRDmAs_ASOPs&ust=1525609890524604)
 
 
 **What is E-Government?**
