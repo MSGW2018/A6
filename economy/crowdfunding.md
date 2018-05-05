@@ -1,8 +1,6 @@
 # CROWDFUNDING
 
-![](https://www.youtube.com/watch?v=8b5-iEnW70k)
-
-Crowdfunding is the search for funding for our project through the set of small contributions made by many people. In this way, among many small investors it is possible to reach the amounts that we need to undertake without having to resort to the traditional means of financing.
+![Crowdfunding](https://www.youtube.com/watch?v=8b5-iEnW70k) is the search for funding for our project through the set of small contributions made by many people. In this way, among many small investors it is possible to reach the amounts that we need to undertake without having to resort to the traditional means of financing.
 
 This mechanism has gained ground in recent months to finance projects, companies or people who are unattended by traditional banking, because there are platforms on the internet that raise money from individuals who are willing to donate, lend or invest resources.
 
