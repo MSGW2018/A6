@@ -2,6 +2,8 @@
 
 There is nothing more essential for our future success than to invest in the quality of education. In this way, there is no doubt that education is increasingly important. Moreover, with all the advances we have experienced, it is something that should be available to everyone, even more considering that expanding educational opportunities is more possible now than it has ever been before.
 
+![Education](https://smedia2.intoday.in/btmt/images/stories/education_660_121614012939.jpg)
+
 In that sense, open education should be mentioned. Open education believes that everyone should have access to high-quality educational experiences and resources, eliminating all the barriers that may be in the way. In addition, open education improves the experience of both educators and learners. There are lots of benefits of this new way of learning, and these are the main ones: 
 
  - **It brings financial benefits for students/institutions :moneybag:**
@@ -20,6 +22,8 @@ By using OER, students are exposed to different educational resources that are i
 - **Better education means a better future :rainbow:**
 
 Education is the key to advancing society’s greatest goals, from a building a strong economy to leading healthy lives. By increasing access to education and creating a platform for more effective teaching and learning, Open Education benefits us all.
+
+![OpenEducation](https://image.talentnetwork.vn/vndirect//news/2015/07/08/1436351739_hoat-dong-cong-dong.jpg)
 
 ### INTERESTING LINKS
 
