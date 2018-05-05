@@ -1,6 +1,6 @@
 # CROWDFUNDING
 
-![What is crowdfunding?](https://hipgive.org/es/que-es-crowdfunding/)
+![What is crowdfunding?](https://goo.gl/images/95VvuU)
 
 Crowdfunding is the search for funding for our project through the set of small contributions made by many people. In this way, among many small investors it is possible to reach the amounts that we need to undertake without having to resort to the traditional means of financing.
 
