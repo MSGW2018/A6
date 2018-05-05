@@ -9,6 +9,8 @@ That definition is accepted, giving its emphasis on the process and on the three
 1. Integration and infusion ensure that the international dimension is a central part of programs, policies, and procedures, not marginal, yet an easily expandable element. 
 1. Both international and intercultural dimension emphasize the fact that internationalization is not only oriented to countries or national states, taking into account the fact that it also includes different cultural or ethnic groups within a country.
 
+![Education](http://www.maldeikiene.lt/wp-content/uploads/2017/09/definition-of-higher-education1.jpg)
+
 ### INTERESTING LINKS
 Here you would be able to find some information about the internationalization of higher education in order to adquire more knowledge about it.
 * You can download an interesting pdf about the topic from this page: https://www.sciencedirect.com/science/article/pii/S1877042811005325
