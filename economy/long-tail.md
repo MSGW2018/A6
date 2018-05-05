@@ -1,5 +1,9 @@
 # Long tail
 
+In statistics and business, the long tail, a concept invented by Chris Anderson in 2004, is the way to describe some type of business and economic models as, among others, Amazon or Netflix. Anderson argued that products in low demand or with low sales volume can and must be the ones to sell. So, the long tail is a business model that debunk traditional models: the ones that defend that the products that must be sold need to be the ones with the highest turnover.
+
+Read more: Long Tail https://www.investopedia.com/terms/l/long-tail.asp#ixzz5EeR43Y3P 
+Follow us: Investopedia on Facebook
 This theory explains how we have gone from a mass market to a niche market. To explain that we need to see what the long tail graphic shown below: 
 
 ![](https://memeburn-ssl-sndytsvoxozgokstuvcm.netdna-ssl.com/wp-content/uploads/Long-Tail.jpg)
