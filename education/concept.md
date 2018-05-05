@@ -1,7 +1,7 @@
 # CONCEPT OF OPEN EDUCATION
 
 Open education is a philosophy about the opportunity everyone should have to study and to have access to certain knowledge.
-This type of education encompasses resources, tools and practices than can be chared and fuly used in the digital environment. People who have proponed open education believe everyone in the world have the right of having a high-quality education, so they work to eliminate the barriers and the limits it has.
+This type of education encompasses resources, tools and practices than can be charged and fully used in the digital environment. People who have proposed open education believe everyone in the world have the right of having a high-quality education, so they work to eliminate the barriers and the limits it has.
 
 The foundation of Open Education is **Open Educational Resources (OER)**, which are teaching, learning, and research resources which are free of barriers and limits. They also carry legal permission for open use. Generally, this permission is granted by use of an open license. This permission allows anyone to freely use, adapt and share the resource—anytime, anywhere, as well as to modify, translate, change or add any type of other information. 
 
