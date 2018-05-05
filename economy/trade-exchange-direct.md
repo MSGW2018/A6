@@ -1,8 +1,6 @@
 # TRADE AND EXCHANGE OF DIRECT SERVICES THROUGH THE INTERNET
 
-![GitHub Logo](http://successhuman.com/how-to-trade-on-the-internet/)
-
-There has been a tendency, for a few years now, of users contacting each other through digital services to help or to provide a service at a lower price than the market. It is also used a lot for the second hand market, and actually there are many companies that offer such service. 
+There has been a tendency, for a few years now, of users contacting each other through [digital services](http://successhuman.com/how-to-trade-on-the-internet/) to help or to provide a service at a lower price than the market. It is also used a lot for the second hand market, and actually there are many companies that offer such service. 
 
 Some of the most powerful companies that offer this kind of services would be, for example:
 
