@@ -7,9 +7,13 @@ A good journalist must accomplish some functions and obligations. The journalist
 
 The journalist must choose and select the information and localize it. The also have to put their knowledge in relation with the society, what means that journalists must be good documented. 
 
+![Selection](https://acrisure.com/wp-content/uploads/2016/05/Information-security-officers-and-risk-managers-can-work-together-to-select-and-customize-cyber-insurance-policies-_2120_40124086_0_14128124_500.jpg)
+
 ## CLASIFICATION 
 
 After selecting the information the journalist must clasificate the content obtained depending on the importance, the ubication, relevance, etc…
+
+![Clasification](https://www.certsi.es/sites/default/files/styles/recuadro_original/public/contenidos/blog/portada_4.png?itok=1pyQK10K)
 
 ## VALORATION, INTERPRETATION AND VERIFICATION
 
