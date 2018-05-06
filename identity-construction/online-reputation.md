@@ -18,5 +18,6 @@ What you should know is that more than 90% of people stay on the first page of G
 Surely it has happened to you that when looking for something and seeing a negative opinion in the results you click on it before the others. Although the top 1 and 2 are good items, our eyes see the negative first, our curiosity prompts us to know bad things first. Imagine the disaster that could lead to our reputation a bad opinion at the top of an important keyword of our site and company.
 
 If we see it from the opposite side, think what it can mean to have very good opinions in the search results, in short, a good reputation means more sales, trust and loyal users.
+(https://www.digitalmediasapiens.com/online-reputation-management/)
 
 https://youtu.be/Q5DAe6dYVy0
