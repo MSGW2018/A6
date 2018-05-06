@@ -16,4 +16,9 @@ This all is referred to individual identities of users, but we cannot forget tha
 
 The Internet has made possible the creation of online communities, mainly according to common values and affinities (more than associated with a specific physical territory). This leads to a situation in which we can even handpick our social groups, and we decide how much we can engage with them. The main consequence is that online communities have become a reflection of each individual found in them. Some examples of that could be GitHub (in which you can develop projects with people interested in it) or Barista Exchange (for people interested in coffee).
 
+
+There is an interesting article that deals with [biometrics](https://www.techopedia.com/definition/10239/biometrics). 
+The new generation in biometrics could be based on our *tweets* or *Facebook statuses* and, in general, on all the movements we do in social networks.
+Everything, in short, will end up shaping what our online identity will be, an identity that will possess as much or more weight than the identity in the real world currently has. [Click here to read more](https://www.yorokobu.es/identidad-online-todo-lo-que-podran-saber-de-ti-cuando-escribas-un-tuit/)
+
 https://youtu.be/uJzuDcyR0WM
