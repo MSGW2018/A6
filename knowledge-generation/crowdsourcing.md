@@ -5,6 +5,7 @@ Crowdsourcing can take place on many different levels and across various industr
 There are various platforms with online communities that enable to collectively contribute to ideas. For instance, GitHub, which is helping companies to work together by crowdsourcing software. [Source](https://www.entrepreneur.com/article/226707)
 
 
+
 ## When and how to use crowdsourcing ##
 
 1.	*Problem solving*
