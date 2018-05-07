@@ -9,7 +9,7 @@ There are various platforms with online communities that enable to collectively 
 ## When and how to use crowdsourcing ##
 
 1.	*Problem solving*
-Crowdsourcing allows for bringing together the knowledge of hundreds or thousands of people to generate ideas or solve problems. Crowdsourcing can be used to reduce the costs of businesses. Company logo designs can be crowdsourced for instance, but businesses focus on more challenging issues, like air pollution, child labor, cleaning the world’s oceans as well.
+Crowdsourcing allows for the ability to bring together the knowledge of hundreds or thousands of people to generate ideas or solve problems. Crowdsourcing can be used to reduce the costs of businesses. Company logo designs can be crowdsourced for instance, but businesses focus on more challenging issues, such as air pollution, child labor, cleaning the world’s oceans as well.
 2.	*Labor intensive tasks*
 Businesses can use crowdsourcing for labor intensive tasks. If a task - for example designing a website - needs to be done, a company can higher freelancers or publish a competition on a crowdsourcing site to get the design with an affordable price. Besides that, more than one person can work on that project at the same time which means the project can be finished in a shorter period of time. 
 3.	*Content creation*
@@ -22,7 +22,7 @@ Crowdwisdom allows users to ask questions in front of a big online audience that
 2. *Crowdfunding*
 Crowdfunding gives people the opportunity to get fundings for a specific project by a large group of people. Everyone can publish a project he or she needs funding for and other users and contribute to the projects by donating money. One example for crowdfunding is the website: kickstarter. Every kind of project can be published - from gadgets to movie projects.
 3. *Crowdsourced design*
-Crowdsoucred designs are project that are funded for a large group of people to design something (for exmple a website or an app). An example for a crowdsourced design is the "Rally Fighter car" - designed by the community.
+Crowdsourced designs are projects which are funded for a large group of people to design something (for exmple a website or an app). An example for a crowdsourced design is the "Rally Fighter car" - designed by the community.
 [source](https://www.hongkiat.com/blog/what-is-crowdsourcing/)
 
 ## Pros and Cons of crowdsourcing ##
@@ -32,7 +32,7 @@ Pros :+1: | Cons :-1:
 Higher probability of success: digital crowdsourcing platforms make it possible that people are able to work on the project from anywhere and at any time of the day | Danger of manipulation: it is possible that competitors manipulate the project by giving wrong feedback 
 Saves time and money: people come together digitally | Danger of loss of image: if the product/project you are presenting to the people is only supposedly innovative
 Marketing measure - Collect data and customers contacts: open projects can create attention from possible customers (advertisement) and companies can collect data from a target group | Danger of internal conflict: people who are responsible for a project should be integrated at all time, if not they could feel threatened
-Access to resources: the user can advertise and sell their skills on platforms - allows more people to access a universally ashared set of resources | Cost of management: outsourcers have to deal with workers directly - might result in spending time and money on managing the resources effectively
+Access to resources: the user can advertise and sell their skills on platforms - allows more people to access a universally shared set of resources | Cost of management: outsourcers have to deal with workers directly - might result in spending time and money on managing the resources effectively
 Transparency - real world data: user reviews on services and products makes the transaction data more transparent - highly rated users can be rewarded and fake profiles can be pointed out easily | Quality control: people engage directly, therefore, safety and quality control can become an issue since it is easier to create a fake identity online than in real life
 
 [source 1](https://www.ispo.com/en/markets/id_79709436/crowdsourcing-pros-and-cons-and-how-you-can-profit-from-it.html)

@@ -24,3 +24,5 @@ As the cases of digital disorders are on the rise, here are some tips to keep yo
 ## How does digital disorder change the user's role in knowledge generation?
 
 Technology allows users to share ideas or concepts much more easily and quickly than previous manners of sharing. This helps knowledge generation as different concepts or ideas can get a get a new perspective on the issue. However, the digital disorders change the user's role in knowledge generation as people are not necessarily adding to the knowledge. Users are strictly consuming and very few are generating new information. 
+
+[![5 Crazy Ways Social Media Is Changing Your Brain Right Now](https://imgur.com/a/YkJj1wN)](https://www.youtube.com/watch?v=HffWFd_6bJ0 "5 Crazy Ways Social Media Is Changing Your Brain Right Now")
