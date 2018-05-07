@@ -5,7 +5,10 @@ A good journalist must accomplish some functions and obligations. The journalist
 
 ## SELECTION
 
-The journalist must choose and select the information and localize it. The also have to put their knowledge in relation with the society, what means that journalists must be good documented. 
+The journalist must choose and select the information and localize it. The also have to put their knowledge in relation with the society, what means that journalists must be good documented.
+
+![Selection](https://thumbs.dreamstime.com/b/el-trabajo-en-equipo-nos-ayuda-seleccionar-la-mejor-información-para-traer-los-clientes-para-utilizar-en-trabajo-acertado-98508612.jpg) 
+
 
 ## CLASIFICATION 
 
