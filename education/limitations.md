@@ -1,5 +1,7 @@
 # LIMITATIONS
 
+<img src="http://whyopenedmatters.org/s/creativecommons/images/oe_examples/oer-commons.png"/>
+
 Despite its numerous advantages, OER is still in the early adoption stage, and the spread of their usage is still slowed by a series of factors. The main limitations that open education faces nowadays are the following:
 
 1. Quality issues
@@ -14,4 +16,3 @@ Despite its numerous advantages, OER is still in the early adoption stage, and t
 4. Technological issues
 - Some students may have trouble using some OERs if they have a slow or erratic Internet connection. Other OERs may require software that students do not have and that may not be able to afford.
 
-<img src="http://whyopenedmatters.org/s/creativecommons/images/oe_examples/oer-commons.png"/>
