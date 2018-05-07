@@ -1,4 +1,3 @@
-o
 What is open data? 
 Open data is data that anyone can access, use and share. Governments, businesses, and individuals can use open data to bring about social, economic, and environmental benefits.
 Uses: 
