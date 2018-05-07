@@ -2,7 +2,7 @@
 
 ## What is Digital Disorder?
 
-**Scientists have theorized that our constant access to the internet reshaping our brains, making them different from our predecessors. If we do not use our technology with moderation, the chance for a digital disorder to take over increases signiicantly.**
+**Scientists have theorized that our constant access to the internet reshaping our brains, making them different from our predecessors. If we do not use our technology with moderation, the chance for a digital disorder to take over increases significantly.**
 
 Some disorders include Nomophobia, Technoference, Fauxcellarm, Cyberchondria and "Truman Show" Delusion. 
 
