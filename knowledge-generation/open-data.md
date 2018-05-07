@@ -1,11 +1,11 @@
-#What is open data? #
+# What is open data? #
 Open data is exactly what the name suggests. It is data that is open to anyone; data which people can access, use and share. Open data can be used by governments, businesses, and individuals for benefit; more specifically, social, economic and environmental benefit. [Source](https://www.europeandataportal.eu/elearning/en/module1/#/id/co-01)
-#Uses: #
+# Uses: #
 Re-use/Redistribution: data is provided under terms that permit-resuse and redistribution including the intermixing with other datasets. 
 Availability & Access: 
 Data must be available as a whole and also at no more than a reasonable reproduction cost. Also, the data must be available in a modifiable and convenient form. 
 Universal Participation: Everyone should be able to use, re-use, and redistribute. This means there should be no discrimination against people or groups. 
-#What makes data open? #
+# What makes data open? #
 If anyone can access, use and share data it is considered to be open. There are three things to consider when defining openness:
 *Limitations: for data to be open, there should not be any limitations of use
 *Cost: use of open data must be free to use
