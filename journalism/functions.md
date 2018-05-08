@@ -9,9 +9,13 @@ The journalist must choose and select the information and localize it. They also
 
 ![Selection](https://thumbs.dreamstime.com/b/el-trabajo-en-equipo-nos-ayuda-seleccionar-la-mejor-información-para-traer-los-clientes-para-utilizar-en-trabajo-acertado-98508612.jpg) 
 
+![Selection](https://acrisure.com/wp-content/uploads/2016/05/Information-security-officers-and-risk-managers-can-work-together-to-select-and-customize-cyber-insurance-policies-_2120_40124086_0_14128124_500.jpg)
+
 ## CLASIFICATION 
 
 The next step after selecting the information for the journalist is clasificating the content obtained depending on the importance, the ubication, relevance, etc… 
+
+![Clasification](https://www.certsi.es/sites/default/files/styles/recuadro_original/public/contenidos/blog/portada_4.png?itok=1pyQK10K)
 
 ## VALORATION, INTERPRETATION AND VERIFICATION
 
