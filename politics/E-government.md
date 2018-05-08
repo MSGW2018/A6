@@ -7,3 +7,10 @@ E-government brings large advances when it comes to effectiveness and efficiency
 The main objective for this type of government is to create a new dynamic relation between governments and citizens. The latter will now increase in communication with their governments and in order to achieve this it is key to implement the new TIC’s to the conventional tasks of municipality and in the public sector management.
 
 We see that *TIC’s* are also making a difference when it comes to communicating to our governments, in other words, it’s changing the sense of the word citizen at a very fast pace.  
+
+! [e-goverments](https://i0.wp.com/cdn.ekendraonline.com/img/eGovernment-uses-digital-tools-and-systems-to-provide-better-public-services-to-citizens-and-business-Europa.jpg?fit=1000%2C750&ssl=1)
+
+### Successfull examples of e-government
+
+- [X] [Great Britain government portal](https://www.gov.uk)
+
