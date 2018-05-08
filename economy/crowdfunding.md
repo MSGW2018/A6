@@ -6,7 +6,7 @@ This mechanism has gained ground in recent months to finance projects, companies
 
 There are many modalities, and depending on where your business idea is or how you want to return the investment made to your patrons, it will be convenient to opt for one or the other.
 
-## **The most common modalities**
+These are the **most common modalities**:
 
 **CROWFUNDING OF DONATIONS** 
 
