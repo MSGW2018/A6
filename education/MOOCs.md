@@ -1,6 +1,6 @@
 # MOOCS
 
-MOOCS or Massive Open Online Courses is an online course aimed at unlimited participation and open access via the web. This concept is practically new and it is in the way of transformation and settlement. 
+MOOCS or Massive Open Online Courses is an online course aimed at unlimited participation and open access via the[web]( https://en.wikipedia.org/wiki/World_Wide_Web). This concept is practically new and it is in the way of transformation and settlement. 
 
 In **The MOOC model for digital practice**, a clear definition of a MOOC can be found:
 
