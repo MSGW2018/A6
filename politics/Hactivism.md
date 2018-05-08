@@ -12,7 +12,7 @@ Activism itself is no crime, but when your are accessing restricted platforms an
 
 
 
-Effects of Hacktivism
+**Effects of Hacktivism**
 ![Effects of Hacktivism](https://image.slidesharecdn.com/seminar-140301072309-phpapp02/95/introduction-to-hacking-hackers-hacktivism-22-638.jpg?cb=1393671252)
 
 | Positive effects of Hacktivism | Negative Effects of Hacktivism | 
