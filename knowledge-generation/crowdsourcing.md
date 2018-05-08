@@ -10,7 +10,7 @@ There are various platforms with online communities that enable to collectively 
 ## When and how to use crowdsourcing ##
 
 1.	*Problem solving*
-Crowdsourcing allows for bringing together the knowledge of hundreds or thousands of people to generate ideas or solve problems. Crowdsourcing can be used to reduce the costs of businesses. Company logo designs can be crowdsourced for instance, but businesses focus on more challenging issues, like air pollution, child labor, cleaning the world’s oceans as well.  [Source](https://es.scribd.com/document/93114731/Crowd-Sourcing-Problem-Solving)
+Crowdsourcing allows for bringing together the knowledge of hundreds or thousands of people to generate ideas or solve problems. Crowdsourcing can be used to reduce the costs of businesses. Company logo designs can be crowdsourced for instance, but businesses focus on more challenging issues, like air pollution, child labor, cleaning the world’s oceans as well.  [Interesting information](https://es.scribd.com/document/93114731/Crowd-Sourcing-Problem-Solving)
 2.	*Labor intensive tasks*
 Businesses can use crowdsourcing for labor intensive tasks. If a task - for example designing a website - needs to be done, a company can higher freelancers or publish a competition on a crowdsourcing site to get the design with an affordable price. Besides that, more than one person can work on that project at the same time which means the project can be finished in a shorter period of time. 
 3.	*Content creation*
