@@ -3,7 +3,7 @@
 Expanding educational opportunities is more possible now than it has ever been before. Open education improves the experience of both educators and learners. The main benefits of this new way of learning are the following: 
 
 1. It brings financial benefits for students/institutions :moneybag:
-   - The price of textbooks has raised significantly in the last decades. College students face steep price tags that can top $200 per book, and schools use books many years out of date because they are too expensive to replace. Using Open Education Resources (OER) solves this problem because material is free online, affordable in print, and can be saved forever. 
+   - The price of textbooks has raised significantly over the last decades. College students face steep price tags that can top $200 per book, and schools use books many years out of date because they are too expensive to replace. Using Open Education Resources (OER) solves this problem because material is free online, affordable in print, and can be saved forever. 
 
 2. It enhances quality and flexibility of resources :books: :+1:
    - Open education resources can be constantly updated without cost; they can be used, reused, edited, remixed and repurposed
