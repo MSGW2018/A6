@@ -18,7 +18,7 @@ If we focus the Long Tail on Internet positioning (SEO), we find that the sum of
 
 Let's see a practical example: if we want to position an online store of sports shoes, we will probably get better results using more specific keywords, for example: _«squash shoes»_ than the general form of _«sports shoes»_.
 
-The ** advantages ** of the specific forms would be:
+The **advantages** of the specific forms would be:
 
 - We will have **less competition**.
 - The **potential client** who does the specific search is of higher quality, which means that we will have more chances of being bought because he has a very specific interest.
