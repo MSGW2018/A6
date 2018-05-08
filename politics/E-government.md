@@ -8,7 +8,7 @@ The main objective for this type of government is to create a new dynamic relati
 
 We see that *TIC’s* are also making a difference when it comes to communicating to our governments, in other words, it’s changing the sense of the word citizen at a very fast pace.  
 
-! [e-goverments](https://i0.wp.com/cdn.ekendraonline.com/img/eGovernment-uses-digital-tools-and-systems-to-provide-better-public-services-to-citizens-and-business-Europa.jpg?fit=1000%2C750&ssl=1)
+(https://i0.wp.com/cdn.ekendraonline.com/img/eGovernment-uses-digital-tools-and-systems-to-provide-better-public-services-to-citizens-and-business-Europa.jpg?fit=1000%2C750&ssl=1)
 
 ### Successfull examples of e-government
 
