@@ -1,7 +1,7 @@
 ## Collective Intelligence ##
 ![What´s that?](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWjMApj3VMJuWRsJXC9OQb-Rujd4e-Il1wvIjhzYifneAkpTEV)
 
-In this section, the meaning of collective intelligence and its role in society will be explained. How does the users role change due to collective intelligence in the internet? And where is collective Intelligence coming from? [Source](https://link.springer.com/article/10.1007/s12599-010-0114-8)
+In this section, the meaning of collective intelligence and its role in society will be explained. How does the users role change due to collective intelligence in the internet? And where is collective Intelligence coming from? [interesting link about it](https://link.springer.com/article/10.1007/s12599-010-0114-8)
 
 ### What is Collective Intelligence? ###
 
