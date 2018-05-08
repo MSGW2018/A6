@@ -1,6 +1,6 @@
 # _Hacktivism_
 
-**In this part of our topic we will be talking about hacktivism.**
+### In this part of our topic, we will be talking about hacktivism.
 
 **What is hacktivism?**
 
@@ -30,8 +30,9 @@ Other examples of hacktivists groups are:
 - [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club) is Europe's largest association of hackers, It has been characterized as one of the most influential digital organisations anywhere, the centre of German digital culture, hacker culture, hacktivism, and the intersection of any discussion of democratic and digital rights.
 - [Cicada 3301](https://en.wikipedia.org/wiki/Cicada_3301) is an enigmatic organization that has posted a set of complex puzzles and alternate reality games to recruit codebreakers from the public, the puzzle has been called "the most elaborate and mysterious puzzle of the internet age".
 
+Activism itself is no crime, but when your are accessing restricted platforms and thus becoming a hacker, the law will put you in trouble. This is no surprise since it would be way too chaotic if anyone had total freedom of speech (and access) to every platform. But when it comes to making noise online, a hacktivist is on top of the ranking for sure. One of the world’s most famous hacktivists is nicknamed Anonymous. From 2008 to 2012 he managed to recruit a large number of Tunisian hackers to help take down eight governments sites in what was called [**Operation _Tunisia_**](https://en.wikipedia.org/wiki/Operation_Tunisia).
 
-<center> <img src"https://betanews.com/wp-content/uploads/2014/05/Hacker.jpg" height="400" width="650"></center>
+<a href="https://betanews.com/wp-content/uploads/2014/05/Hacker.jpg"><img src="https://betanews.com/wp-content/uploads/2014/05/Hacker.jpg" /></a>
 
 
 

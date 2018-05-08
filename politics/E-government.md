@@ -9,11 +9,12 @@ A worldwide [revolution](https://en.wikipedia.org/wiki/Digital_Revolution) in in
 
 We can define *E-government* as the application of Information and Communication Technologies to governments functions and procedures with the purpose of increasing efficiency, transparency and citizen participation. This is a clear answer to the technological times that we are living in. Sooner or later, all forms of governments are going to have to become e-governments in a larger or smaller scale if they want to keep up with society and relate to their supporters. 
 
-E-government brings large advances when it comes to effectiveness and efficiency, developing government tasks, improvement of processes and procedures, quality of public services, use of information and decision-making processes and communication between different government offices.
+E-government brings large advances when it comes to **effectiveness and efficiency**, developing government tasks, improvement of processes and procedures, quality of public services, use of information and decision-making processes and communication between different government offices.
  
- 
- **What is the main objective of E-Government?**
- 
+**What is the main objective of E-Government?**
+
+The main objective for this type of government is to create a **new dynamic relation between governments and citizens.** The latter will now increase in communication with their governments and in order to achieve this it is key to implement the new TIC’s to the conventional tasks of municipality and in the public sector management.
+
 The interaction between municipalities and their citizens is necesarry, for example, for the suscriprion of a child in a school, real state development business registrations or real state development. So the main objective for this type of government is to create a new dynamic relation between governments and citizens, simpler and more participative. It will increase the communication between the citizens with their governments and in order to be more participative but at the same time much simpler.
 
 **Main benefits**
@@ -30,7 +31,10 @@ The interaction between municipalities and their citizens is necesarry, for exam
 **The role of the ITCs**
 As we have seen E-Government has the potential to improve how government operates internally and how it's interaction with citizens. But in order to achieve this, it is key to implement the new ITCs to the conventional tasks of municipality and in the public sector management. Furthermore, *ITCs.* are also making a difference when it comes to communicating to our governments, in other words, it’s changing the sense of the word citizen at a very fast pace.  
 
+<a href="https://i0.wp.com/cdn.ekendraonline.com/img/eGovernment-uses-digital-tools-and-systems-to-provide-better-public-services-to-citizens-and-business-Europa.jpg?fit=1000%2C750&ssl=1"><img src="https://i0.wp.com/cdn.ekendraonline.com/img/eGovernment-uses-digital-tools-and-systems-to-provide-better-public-services-to-citizens-and-business-Europa.jpg?fit=1000%2C750&ssl=1" /></a>
 
+### Successfull examples of e-government
+
+- [X] [Great Britain government portal](https://www.gov.uk)
 
 [Click here to to learn the three foundational elements of E-Government and how citizens, businesses and government leaders are driving the E-Government movement.](https://www.youtube.com/watch?v=Km3OheNEqHo)
-
