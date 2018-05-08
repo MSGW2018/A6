@@ -9,6 +9,9 @@ Collective Intelligence (CI) is also called swarm intelligence or group intellig
 
 Each individual has its own specific agenda. The activity of all individual activities does not seem to require an supervisor. Additionally, the individual always has the ability to observe the others and improve its own behavior by watching the other. They are [imitating the behavior](https://de.slideshare.net/eslamhamed93/swarm-intelligence-42553644) of the others. The system proves the saying "many minds are better than one", as you can see well described in the following [video](https://www.youtube.com/watch?v=UcNm1c8kggE). In the case of humans, the swarm intelligence is possible through new technologies. I will further argue in the section about "Collective Intelligence in the Internet" and "The user´s role in collective intelligence". Collective intelligence strongly contributes to the shift of knowledge and power from the individual to the collective.
 
+### History ###
+
+In 1911 William Morton Wheeler observed ants working in a group and saw them as not individuals but as one single unit working as one in a colony which created a "superorganism". A year later in 1912, Émile Durkheim identified society as the sole source of human logical thought. Which we believe to be a true statement because a lot of our knowledge is from other people so we are like the ant colony.
 
 
 ### Advantages and Disadvantages of Collective Intelligence ###
