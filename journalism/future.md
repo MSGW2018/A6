@@ -3,7 +3,11 @@
 
 ## TECHNOLOGICAL CHANGE, SOCIAL CHANGE.
 
-With the introduction of new technologies, it is indisputable that society has undergone a significant change. We have changed the way of being informed, of communicating, of relating, etc. As a result of this change, journalism does not have the transcendent role of reporting today. Some people, the most positive, think that journalism is in transition, in continuous evolution. But others, believe that journalism is coming to an end.
+
+With the introduction of new technologies, it is indisputable that society has undergone a major change. We have evolved in the way of being informed, of communicating, of relating ... As a result of this change, journalism does not have the transcendent role of informing today. Some people, the most positive, think that journalism is in transition, in continuous change. But others, think that journalism is coming to an end.
+
+One of the main reasons to believe that journalism is coming to an end is that any user has the chance to create content by using their mobile phones (video, images, tweets, etc.) and share it with the rest of the population, like a journalist would do.
+
 
 ![technological change, social change](https://thewellesleynews.com/wp-content/uploads/2015/11/0070a97.jpg)
 
@@ -11,11 +15,15 @@ With the introduction of new technologies, it is indisputable that society has u
 
 Traditional media mainly, throughout history have played the role of informing, but it is not the only one. They also had the function of educating, entertaining, socializing, marketing or advertising, etc. It is true that some of these functions can be performed by using internet us users, but not all of them.
 
+Internet allows us to get informed by many sources but not all of them tells us the truth. The fake news are always going to be there and it can suppose a big problem in the way we are informed. Traditional media should be more relevant rather than Internet in terms of trust.
+
 ## EXPERIENCE JOURNALISM
 
 All from our experience, we can create information from different perspectives, from mixed feelings, or you can even invent it. But, it is true that, that users have the option to issue information does not mean that we can reach society.
 
-### Video here:
+We are again talking about the same topic, it is true that the user can share the experience that is living and create the content like a journalist would do, even though the quality of that content is not the same in a user as in a journalist, and this is something to take into account. (Shirky, 2008)
+
+### Videos here:
 [experience journalism](https://www.youtube.com/watch?v=SEVNA8EnTeA)
 
 ## PLACE IN THE FUTURE
@@ -31,5 +39,6 @@ It is true that the internet has absorbed the other functions. But researching a
 ## INTERESTING LINKS
 
 Here you will be able to find to interesting articles about what we have been talking about:
- - [X] [What is the furure of journalism. THE GUARDIAN](https://www.theguardian.com/media/2015/apr/15/what-is-the-future-of-journalism)
+ - [X] [What is the future of journalism. THE GUARDIAN](https://www.theguardian.com/media/2015/apr/15/what-is-the-future-of-journalism)
  - [X] [What is the future of journalism in the digital world. FORBES](https://www.forbes.com/sites/quora/2017/12/18/what-is-the-future-of-journalism-in-the-digital-world/#78f8c5c36a39)
+ - [X] [The Future of Journalism. BBC](http://www.bbc.co.uk/blogs/theeditors/future_of_journalism.pdf)
