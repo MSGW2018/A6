@@ -11,7 +11,6 @@ We can define *E-government* as the application of Information and Communication
 
 E-government brings large advances when it comes to **effectiveness and efficiency**, developing government tasks, improvement of processes and procedures, quality of public services, use of information and decision-making processes and communication between different government offices.
  
-
 **What is the main objective of E-Government?**
 
 The main objective for this type of government is to create a **new dynamic relation between governments and citizens.** The latter will now increase in communication with their governments and in order to achieve this it is key to implement the new TIC’s to the conventional tasks of municipality and in the public sector management.
@@ -39,5 +38,3 @@ As we have seen E-Government has the potential to improve how government operate
 - [X] [Great Britain government portal](https://www.gov.uk)
 
 [Click here to to learn the three foundational elements of E-Government and how citizens, businesses and government leaders are driving the E-Government movement.](https://www.youtube.com/watch?v=Km3OheNEqHo)
-
-
