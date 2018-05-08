@@ -16,4 +16,4 @@ This all is referred to individual identities of users, but we cannot forget tha
 
 The Internet has made possible the creation of online communities, mainly according to common values and affinities (more than associated with a specific physical territory). This leads to a situation in which we can even handpick our social groups, and we decide how much we can engage with them. The main consequence is that online communities have become a reflection of each individual found in them. Some examples of that could be GitHub (in which you can develop projects with people interested in it) or Barista Exchange (for people interested in coffee).
 
-([![An interesting video about digital identity](https://img.youtube.com/vi/uJzuDcyR0WM/0.jpg)](https://www.youtube.com/watch?v=uJzuDcyR0WM)
+[![An interesting video about digital identity](https://img.youtube.com/vi/uJzuDcyR0WM/0.jpg)](https://www.youtube.com/watch?v=uJzuDcyR0WM)
