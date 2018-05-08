@@ -1,4 +1,6 @@
 # What is crowdsourcing #
+The term "crowdsourcing" was coined in 2005 by Jeff Howe and Mark Robinson, editor at *Wired*, to describe how businesses were using the Internet to "outsource work to the crowd". Howe, who first published a definition for the term _crowdsourcing_ in a companion blog post, fist defined as:"Simply defined, crowdsourcing represents the act of a company or institution taking a function once performed by employees and outsourcing it to an undefined (and generally large) network of people in the form of an open call. This can take the form of peer-production (when the job is performed collaboratively), but is also often undertaken by sole individuals. The crucial prerequisite is the use of the open call format and the large network of potential laborers."
+
 
 Crowdsourcing is “the practice of obtaining information or input unto a task or project by enlisting the services of a large number of people, either paid or unpaid, typically via the Internet”. [Source](https://www.google.com/search?source=hp&ei=4PHeWuaGGMziU83DscgP&q=crowdsourcing+definition&oq=crowd&gs_l=psy-ab.3.0.35i39k1j0i203k1l9.1321.3977.0.6244.6.5.0.0.0.0.276.488.2-2.2.0....0...1c.1.64.psy-ab..4.2.485.0..0.0.vEEJdEr2hzM)
 Crowdsourcing can take place on many different levels and across various industries. People involved in crowdsourcing can work as paid freelancers who contribute their knowledge to bring innovation in a certain industry, or to help a certain cause. Others work on crowdsourcing on a voluntary basis, for instance, by reporting accidents through traffic apps to provide real-time information to app users. [Source](https://www.investopedia.com/terms/c/crowdsourcing.asp)
@@ -28,10 +30,12 @@ Crowdsoucred designs are project that are funded for a large group of people to 
 
 Pros :+1: | Cons :-1:
 ----------|----------
-Higher probability of success: digital crowdsourcing platforms make it possible that people are able to work on the project from anywhere and at any time of the day | Danger of manipulation: it is possible that competitors manipulate the project by giving wrong feedback 
+-**Higher probability of success**: digital crowdsourcing platforms make it possible that people are able to work on the project from anywhere and at any time of the day | Danger of manipulation: it is possible that competitors manipulate the project by giving wrong feedback 
 Saves time and money: people come together digitally | Danger of loss of image: if the product/project you are presenting to the people is only supposedly innovative
-Marketing measure - Collect data and customers contacts: open projects can create attention from possible customers (advertisement) and companies can collect data from a target group | Danger of internal conflict: people who are responsible for a project should be integrated at all time, if not they could feel threatened
-Access to resources: the user can advertise and sell their skills on platforms - allows more people to access a universally ashared set of resources | Cost of management: outsourcers have to deal with workers directly - might result in spending time and money on managing the resources effectively
+
+**Marketing measure - Collect data and customers contacts**: open projects can create attention from possible customers (advertisement) and companies can collect data from a target group | Danger of internal conflict: people who are responsible for a project should be integrated at all time, if not they could feel threatened
+
+**Access to resources**: the user can advertise and sell their skills on platforms - allows more people to access a universally ashared set of resources | Cost of management: outsourcers have to deal with workers directly - might result in spending time and money on managing the resources effectively
 Transparency - real world data: user reviews on services and products makes the transaction data more transparent - highly rated users can be rewarded and fake profiles can be pointed out easily | Quality control: people engage directly, therefore, safety and quality control can become an issue since it is easier to create a fake identity online than in real life
 
 [source 1](https://www.ispo.com/en/markets/id_79709436/crowdsourcing-pros-and-cons-and-how-you-can-profit-from-it.html)
