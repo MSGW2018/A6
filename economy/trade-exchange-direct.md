@@ -1,8 +1,7 @@
 # TRADE AND EXCHANGE OF DIRECT SERVICES THROUGH THE INTERNET
 
-[**Photo**](https://www.google.es/search?biw=1280&bih=589&tbm=isch&sa=1&ei=CjPkWprOEIiPU46vjagG&q=trade+internet&oq=trade+internet&gs_l=psy-ab.3...60967.66531.0.67093.15.15.0.0.0.0.209.1485.0j10j1.12.0....0...1c.1.64.psy-ab..3.9.1135.0..0j0i10k1j0i30k1j0i5i30k1.92.RabwWThYkWk#imgrc=Z5POqeL88me4oM)
 
-![GitHub Photo](https://www.google.es/search?biw=1280&bih=589&tbm=isch&sa=1&ei=CjPkWprOEIiPU46vjagG&q=trade+internet&oq=trade+internet&gs_l=psy-ab.3...60967.66531.0.67093.15.15.0.0.0.0.209.1485.0j10j1.12.0....0...1c.1.64.psy-ab..3.9.1135.0..0j0i10k1j0i30k1j0i5i30k1.92.RabwWThYkWk#imgrc=Z5POqeL88me4oM) 
+! [GitHub Photo](https://www.google.es/search?biw=1280&bih=589&tbm=isch&sa=1&ei=CjPkWprOEIiPU46vjagG&q=trade+internet&oq=trade+internet&gs_l=psy-ab.3...60967.66531.0.67093.15.15.0.0.0.0.209.1485.0j10j1.12.0....0...1c.1.64.psy-ab..3.9.1135.0..0j0i10k1j0i30k1j0i5i30k1.92.RabwWThYkWk#imgrc=Z5POqeL88me4oM) 
 
 
 There has been a tendency, for a few years now, of users contacting each other through digital services to help or to provide a service at a lower price than the market offers. The second hand market also has been very used, and actually there are many companies that offer such service. 
