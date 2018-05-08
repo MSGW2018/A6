@@ -6,4 +6,4 @@ The change in the business area with _e-commerce_ as one of their biggest new br
 
 **The new way of properly addressing this population from a government point of view would have to be open government**. The opening up of governments proceedings, documents and data for public scrutiny and involvement is now considered as a fundamental element for a democratic society. This will pay an essential role for regaining the trust of citizens in the neutrality and reliability of public administrations
 
-<center><img src"https://veritasonline.com.mx/wp-content/uploads/2013/10/consejoad1-680x365_c.jpg" height="400" width="650"></center>
+<a href="https://veritasonline.com.mx/wp-content/uploads/2013/10/consejoad1-680x365_c.jpg"><img src="https://veritasonline.com.mx/wp-content/uploads/2013/10/consejoad1-680x365_c.jpg" /></a>
