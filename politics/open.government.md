@@ -8,5 +8,7 @@ The change in the business area with _e-commerce_ as one of their biggest new br
 
 <a href="https://veritasonline.com.mx/wp-content/uploads/2013/10/consejoad1-680x365_c.jpg"><img src="https://veritasonline.com.mx/wp-content/uploads/2013/10/consejoad1-680x365_c.jpg" /></a>
 
+### Here you have a interesting video about the inportance of the Open Goverment:
+
 [![Here you have a interesting video about the inportance of the Open Goverment](https://img.youtube.com/vi/KzDE7D52zlA/0.jpg)](https://www.youtube.com/watch?v=KzDE7D52zlA)
 
