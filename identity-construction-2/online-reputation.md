@@ -10,7 +10,7 @@ As *Michael Fertik* said in an interview for [Forbes](https://www.forbes.com/sit
 
 ![GitHub Logo](https://www.reviewsolved.com/wp-content/uploads/2018/01/online-reputation-management-compressed.jpg)
 
-When we are searching different type of information, our search terms are going to be associated with them. If we search a lot of information about sport and restaurants, the suggestion are going to be relationated with those items. 
+When we are searching for different types of information, our search terms are going to be associated with them. If we search a lot of information about sport and restaurants, the suggestions are going to be related to those items. 
 
 There are some **principles** which are characteristic of online reputation management:
 
