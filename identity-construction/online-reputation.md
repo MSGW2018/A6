@@ -10,4 +10,6 @@ It can also be argued that reputation is a social construction, which means that
 
 Being easily accessible, reputation can be built from a multiplicity of sources and be used by many other users to make value judgments. What before was left in a reduced social environment (family, friends or school), now is distributed in a massive way and can reach great media heights. This model is the one used, for example, by social media as Twitter or Facebook, which are being used today to make judgement of other users and companies (among other functions). 
 
+To understand better the concept of online-reputation, [**here**](https://www.youtube.com/watch?v=Q5DAe6dYVy0&feature=youtu.be) you can see a video.
+
 [![An interesting video about online-reputation](https://img.youtube.com/vi/Q5DAe6dYVy/.0jpg)](https://youtu.be/Q5DAe6dYVy0 "An interesting video about online-reputation")
