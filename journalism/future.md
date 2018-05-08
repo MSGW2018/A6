@@ -19,6 +19,8 @@ Internet allows us to get informed by many sources but not all of them tells us 
 
 All from our experience we can create information from different perspectives, from different feelings, or you can even invent it. But, it is true that, that users have the option to issue information does not mean that we have the ability to reach society.
 
+We are again talking about the same topic, it is true that the user can share the experience that is living and create the content like a journalist would do, even though the quality of that content is not the same in a user as in a journalist, and this is something to take into account. (Shirky, 2008)
+
 ### Video here:
 [experience journalism](https://www.youtube.com/watch?v=SEVNA8EnTeA)
 
