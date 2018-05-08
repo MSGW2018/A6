@@ -1,6 +1,6 @@
 # _Hacktivism_
 
-##In this part of our topic we will be talking about hacktivism.
+### In this part of our topic we will be talking about hacktivism.
 
 If we take a close look to this term, we can find out that it is the result of the mix of activism (action of using vigorous campaigning to bring about political or social change) and hacking (gain unauthorized data in a system or computer). So we could define a hacktivist as a person that breaks into any computer or system for a politically or socially motivated purpose. In the bottom line, **any hacktivist has to become a hacker first**, because without all the coding knowledge there will be no way for him to protest about social, political or economical affairs. 
 
