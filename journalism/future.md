@@ -3,7 +3,7 @@
 
 ## TECHNOLOGICAL CHANGE, SOCIAL CHANGE.
 
-With the introduction of new technologies, it is indisputable that society has undergone a major change. We have changed the way of being informed, of communicating, of relating ... As a result of this change, journalism does not have the transcendent role of informing today. Some people, the most positive, think that journalism is in transition, in continuous change. But others, think that journalism is coming to an end.
+With the introduction of new technologies, it is indisputable that society has undergone a major change. We have evolved in the way of being informed, of communicating, of relating ... As a result of this change, journalism does not have the transcendent role of informing today. Some people, the most positive, think that journalism is in transition, in continuous change. But others, think that journalism is coming to an end.
 
 ![technological change, social change](https://thewellesleynews.com/wp-content/uploads/2015/11/0070a97.jpg)
 
@@ -31,5 +31,6 @@ It is true that the other functions have been absorbed by the internet. But rese
 ## INTERESTING LINKS
 
 Here you will be able to find to interesting articles about what we have been talking about:
- - [X] [What is the furure of journalism. THE GUARDIAN](https://www.theguardian.com/media/2015/apr/15/what-is-the-future-of-journalism)
+ - [X] [What is the future of journalism. THE GUARDIAN](https://www.theguardian.com/media/2015/apr/15/what-is-the-future-of-journalism)
  - [X] [What is the future of journalism in the digital world. FORBES](https://www.forbes.com/sites/quora/2017/12/18/what-is-the-future-of-journalism-in-the-digital-world/#78f8c5c36a39)
+ - [X] [The Future of Journalism. BBC](http://www.bbc.co.uk/blogs/theeditors/future_of_journalism.pdf)
