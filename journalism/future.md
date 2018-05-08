@@ -5,11 +5,15 @@
 
 With the introduction of new technologies, it is indisputable that society has undergone a major change. We have evolved in the way of being informed, of communicating, of relating ... As a result of this change, journalism does not have the transcendent role of informing today. Some people, the most positive, think that journalism is in transition, in continuous change. But others, think that journalism is coming to an end.
 
+One of the main reasons to believe that journalism is coming to an end is that any user has the chance to create content by using their mobile phones (video, images, tweets, etc.) and share it with the rest of the population, like a journalist would do.
+
 ![technological change, social change](https://thewellesleynews.com/wp-content/uploads/2015/11/0070a97.jpg)
 
 ## TRADITIONAL MEDIA VS INTERNET 
 
 Traditional media mainly, throughout history have played the role of informing, but it is not the only one. They also had the function of educating, entertaining, socializing, marketing or advertising ... It is true that some of these functions can be performed by using internet us a users, but not all of them.
+
+Internet allows us to get informed by many sources but not all of them tells us the truth. The fake news are always going to be there and it can suppose a big problem in the way we are informed. Traditional media should be more relevant rather than Internet in terms of trust.
 
 ## EXPERIENCE JOURNALISM
 
