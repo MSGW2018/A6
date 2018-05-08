@@ -3,17 +3,17 @@
 
 ## TECHNOLOGICAL CHANGE, SOCIAL CHANGE.
 
-With the introduction of new technologies, it is indisputable that society has undergone a major change. We have changed the way of being informed, of communicating, of relating ... As a result of this change, journalism does not have the transcendent role of informing today. Some people, the most positive, think that journalism is in transition, in continuous change. But others, think that journalism is coming to an end.
+With the introduction of new technologies, it is indisputable that society has undergone a major change. We have changed the way of being informed, of communicating, of relating ... As a result of this change, journalism doesn´t have the transcendent role of informing today. Some people, the most positive, think that journalism is in transition, in continuous change. But others, think that journalism is coming to an end.
 
 ![technological change, social change](https://thewellesleynews.com/wp-content/uploads/2015/11/0070a97.jpg)
 
 ## TRADITIONAL MEDIA VS INTERNET 
 
-Traditional media mainly, throughout history have played the role of informing, but it is not the only one. They also had the function of educating, entertaining, socializing, marketing or advertising ... It is true that some of these functions can be performed by using internet us a users, but not all of them.
+Traditional media mainly, throughout history have played the role of informing, but it is not the only one. They also had the function of educating, entertaining, socializing, marketing or advertising.It is true that some of these functions can be performed by using internet us a users, but not all of them. Journalists have knowledge to know what information they can publish, many of the users who publish content do so without contrasting it, that is why the figure of the journalist is very important in this aspect. 
 
 ## EXPERIENCE JOURNALISM
 
-All from our experience we can create information from different perspectives, from different feelings, or you can even invent it. But, it is true that, that users have the option to issue information does not mean that we have the ability to reach society.
+All from our experience we can create information from different perspectives, from different feelings, or you can even invent it. But, it is true that, that users have the option to issue information does not mean that we have the ability to reach society.or that you are interested in our information. Getting this is not available to anyone, people are increasingly demanding the content they want to receive, so creating something that gets their attention is quite complicated.
 
 ### Video here:
 [experience journalism](https://www.youtube.com/watch?v=SEVNA8EnTeA)
