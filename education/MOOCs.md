@@ -1,6 +1,8 @@
 # MOOCS
 
-MOOCS or Massive Open Online Courses is an online course aimed at unlimited participation and open access via the web. This concept is practically new and it is in the way of transformation and settlement. 
+MOOCS or Massive Open Online Courses is an online course aimed at unlimited participation and open access via the web. This concept is practically new and it is in the way of transformation and settlement. The first MOOC was created by George Siemens and Stephen Downes in 2008 called "Conenectivism and Connective Knowledge (CCK08).
+
+![MOOC](http://www.uv.mx/tecnica/files/2018/01/mooc.jpg)
 
 In **The MOOC model for digital practice**, a clear definition of a MOOC can be found:
 
