@@ -23,7 +23,7 @@ As it is not strange, this personal information is easier to find on the interne
 
 ![GitHub Logo](https://cdn-images-1.medium.com/max/1600/1*MXKu3-9szJkM5ciBrfjCoQ.jpeg)
 
-The [**digital footprint**](https://en.wikipedia.org/wiki/Digital_footprint) or digital shadow is the combination of “digital activities, actions, contributions and communications” done by a user on the Internet.
+The [**digital footprint**](https://en.wikipedia.org/wiki/Digital_footprint) or "digital shadow" is the combination of “digital activities, actions, contributions and communications” done by a user on the Internet.
 There are two types of digital footprints: passive and active. 
 Passive refers to the collected data without the user knowing it. 
 Active is the one that has the searched information and the activities that have been done by the user because he or she decided to do it.
