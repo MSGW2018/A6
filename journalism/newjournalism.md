@@ -31,4 +31,4 @@ Here you will be able to find some interesting links about what we have been tal
 
 - [A video about data journalists](https://www.youtube.com/watch?v=h2zbvmXskSE)
 - [The Inmersive Journalism Lab](http://www.immersivejournalism.es/) 
-- [New Media Models](https://www.youtube.com/watch?v=z79MoWZOFfw)
+- [New Models of Journalism](https://www.youtube.com/watch?v=z79MoWZOFfw) 
