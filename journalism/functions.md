@@ -5,11 +5,17 @@ A good journalist must accomplish some functions and obligations. The journalist
 
 ## SELECTION
 
-The journalist must choose and select the information and localize it. The also have to put their knowledge in relation with the society, what means that journalists must be good documented. 
+The journalist must choose and select the information and localize it. They also have to put their knowledge in relation with the society, what means that journalists must be good documented. This point is really important because is one of the main differences between a professional jounalist from the citizen journalism. Nowadays, in the selection of this information it is a quite commonly technique to check the information from the Big Data.
 
-## CLASIFICATION 
+![Selection](https://acrisure.com/wp-content/uploads/2016/05/Information-security-officers-and-risk-managers-can-work-together-to-select-and-customize-cyber-insurance-policies-_2120_40124086_0_14128124_500.jpg)
 
-After selecting the information the journalist must clasificate the content obtained depending on the importance, the ubication, relevance, etc…
+## CLASSIFICATION 
+
+The next step after selecting the information for the journalist is clasificating the content obtained depending on the importance, the ubication, relevance, etc… 
+
+With the evolution of the Internet and other Communication technologies (Big Data), the way in which information is classified has changed, journalists modified the way they made their job. One of these changes has been shown with the appearence of a new job: "The Data Scientists", proffesionals in maths, statistics and engineery that analyse the data in search of information (Tascon, 2013).
+
+![Clasification](https://www.certsi.es/sites/default/files/styles/recuadro_original/public/contenidos/blog/portada_4.png?itok=1pyQK10K)
 
 ## VALORATION, INTERPRETATION AND VERIFICATION
 
@@ -17,7 +23,7 @@ The information can not be pulished without being contrasted first. Is really im
 
 ## INFORMATION TRANSMITION
 
-The last function the journalist have is to transmit the information to the audience, to the recipient in understable way. Is important to know the audience needs and to adapt the information code to those needs.
+The last function the journalist have is to transmit the information to the audience, to the recipient in understable way. Is important to know the audience needs and to adapt the information code to those needs. At this point, the journalist must decide and select which is the best media support for the transmition of this information and which is the best way to communicate what he wants to explain.
 
 ![World](https://www.ucas.com/ucas/after-gcses/find-career-ideas/explore-jobs/job-profile/magazine-journalist)
 
