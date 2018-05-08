@@ -3,9 +3,10 @@
 
 ## A GREAT REVOLUTION
 
-The extensive use of Information and Communication Technologies is one of the characteristics of our current society. In fact, the use of new technologies has contributed to the evolution of the society and has created a great impact in many areas.  
+The extensive use of information and communication technologies is one of the characteristics of our current society. In fact, the use of new technologies has contributed to the evolution of the society and has created a great significant in many areas.  
 
-In this way, nowadays, it is increasingly common to require people with extensive technological skills to access jobs in a wide variety of professions. Among them, we must mention journalism, since it has experienced significant changes. We have evolved from a traditional journalism to an increasingly digital journalism. 
+In this way, nowadays, it is increasingly common to require people with extensive technical skills to access jobs in a wide variety of professions. Among them, we must mention journalism, since it has experienced significant changes. We have evolved from traditional journalism to increasingly digital journalism. 
+
 
 Social networks have also advance with the development of new technologies. To discover more about the influence of social networks in journalism, click on the following link: https://www.youtube.com/watch?v=-7esKJDZqzQ 
 
@@ -13,7 +14,7 @@ Social networks have also advance with the development of new technologies. To d
 
 ## SPECIAL AND PARTICULAR CHARACTERISTICS
 
-One of the most important aspects of the digital journalism is the expansion of navigation possibilities and hypertextuality. In addition, digital journalism is also characterized by multimedia elements and frequency of updating, without any type of space or time limit. Nevertheless, undoubtedly, one of the greatest advantages and characteristics of the new digital paradigm is the interactivity. Thanks to it, there is an intense feedback between the sender and the receiver of the information. Moreover, it not only endows the environment with great dynamism, but it also gives the possibility of creating both closeness and proximity with the writer or with the journalist.
+One of the most critical aspects of the digital journalism is the expansion of navigation possibilities and hypertextuality. Besides, digital writing is also characterized by multimedia elements and frequency of updating, without any space or time limit. Nevertheless, undoubtedly, one of the most considerable advantages and characteristics of the new digital paradigm is the interactivity. Thanks to it, there is intense feedback between the sender and the receiver of the information. Moreover, it not only endows the environment with high dynamism, but it also gives the possibility of creating both closeness and proximity with the writer or with the journalist.
 
 The following article talks about what is digital journalism and it´s importance. It also provides information about interactive journalism and the problems that this can cause and what this means for journalism students. To discover more about it click on the following link:http://www.studentworldonline.com/article/what-is-digital-journalism-and-why-does-it-matter-/317/
 
@@ -25,9 +26,10 @@ At the same time, it is well known that the network has allowed a level of infor
 
 Moreover, nowadays, anyone who has a computer connected to the Internet can upload any type of information, wether it is true or not. In addition, with the development of new technologies,  smart phones with cameras and Internet access have contributed to the ability that the citizens have to cover all type of news. As a consequence, more and more frequently, we can find what is called “accidental journalists”: people who are in the right place at the right time and who have a smart phone to tell it.   
 
-Anyway, the fact that anyone can create any type of information has also a negative side which is mainly that the veracity of the information has become something more and more difficult to control. So, we must evaluate the information taking into account two basic factors such as the credibility of the source and content.
 
-Finally, it is also interesting to mention what is known as immersive journalism. The immersive journalism allows the user to experience a scenario created virtually in which a journalistic story is represented. This type of journalism, which is growing more an more, increases both the empathy and the understanding of reality. 
+Anyway, the fact that anyone can create any information has also a negative side which is mainly that the integrity of the data has become something more and more difficult to control. So, we must evaluate the information taking into account two fundamental factors such as the credibility of the source and content.
+
+Finally, it is also interesting to mention what is known as immersive journalism. The immersive journalism allows the user to experience a scenario created virtually in which a journalistic story is represented. This type of writing, which is growing more an more, increases both the empathy and the understanding of reality. 
 
 ![Journalists](https://colectivonovecento.files.wordpress.com/2013/01/tablet-2.jpg)
 
