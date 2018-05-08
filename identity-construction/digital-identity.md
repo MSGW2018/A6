@@ -1,6 +1,6 @@
 ## **DIGITAL IDENTITY**
 
-Nowadays, people are living a progressive and inevitable convergence of the offline and the online realities; said in other words, we are immersed in the mixture of the physical and the virtual lives. This fact needs to be taken into account when constructing the identity of Internet users.
+Nowadays, people are living a progressive and inevitable convergence of the offline and the online realities; in other words, we are immersed in the mixture of the physical and the virtual lives. This fact needs to be taken into account when constructing the identity of Internet users.
 
 This identity is created through what we are (our “actual self”, made of information describing our features) and what we would like to be (our “*ideal self*”, made of information describing our expectations or the social expectations about us). So, personal identity is always constituted of both **reality** and **imagination** or virtuality. However, the main idea is that now these two components are merging into the same.
 
@@ -20,4 +20,6 @@ There is an interesting article that deals with [biometrics](https://www.techope
 The new generation in biometrics could be based on our *tweets* or *Facebook statuses* and, in general, on all the movements we do in social networks.
 Everything, in short, will end up shaping what our online identity will be, an identity that will possess as much or more weight than the identity in the real world currently has. [Click here to read more](https://www.yorokobu.es/identidad-online-todo-lo-que-podran-saber-de-ti-cuando-escribas-un-tuit/)
 
-https://youtu.be/uJzuDcyR0WM
+
+[![An interesting video about digital identity](https://img.youtube.com/vi/uJzuDcyR0WM/0.jpg)](https://www.youtube.com/watch?v=uJzuDcyR0WM)
+

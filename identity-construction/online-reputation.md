@@ -20,4 +20,5 @@ Surely it has happened to you that when looking for something and seeing a negat
 If we see it from the opposite side, think what it can mean to have very good opinions in the search results, in short, a good reputation means more sales, trust and loyal users.
 (https://www.digitalmediasapiens.com/online-reputation-management/)
 
-https://youtu.be/Q5DAe6dYVy0
+
+To understand better the concept of online-reputation, [**here**](https://www.youtube.com/watch?v=Q5DAe6dYVy0&feature=youtu.be) you can see a video.
