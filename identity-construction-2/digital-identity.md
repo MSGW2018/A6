@@ -16,7 +16,6 @@ The identity created by users in online communities is what we call the **online
 
 In addition, the form of representation of those users is not only by the use of these nicknames, because they can also have  a “physical representation” of themselves with an avatar. With their avatars, users establish interaction with other users of online communities.
 
-
 **Personally identifiable information**, sensitive personal information or personal information is data that can be used to connect, search or recognize a person.
 
 As it is not strange, this personal information is easier to find on the internet and this may involve many issues. Personal information can be used with criminal objectives, so many websites worked in privacy policies so user’s information is safe and difficult to access. 
