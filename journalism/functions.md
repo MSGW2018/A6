@@ -5,14 +5,13 @@ A good journalist must accomplish some functions and obligations. The journalist
 
 ## SELECTION
 
-The journalist must choose and select the information and localize it. The also have to put their knowledge in relation with the society, what means that journalists must be good documented.
+The journalist must choose and select the information and localize it. They also have to put their knowledge in relation with the society, what means that journalists must be good documented. This point is really important because is one of the main differences between a professional jounalist from the citizen journalism. Nowadays, in the selection of this information it is a quite commonly technique to check the information from the Big Data.
 
 ![Selection](https://thumbs.dreamstime.com/b/el-trabajo-en-equipo-nos-ayuda-seleccionar-la-mejor-información-para-traer-los-clientes-para-utilizar-en-trabajo-acertado-98508612.jpg) 
 
-
 ## CLASIFICATION 
 
-After selecting the information the journalist must clasificate the content obtained depending on the importance, the ubication, relevance, etc…
+The next step after selecting the information for the journalist is clasificating the content obtained depending on the importance, the ubication, relevance, etc… 
 
 ## VALORATION, INTERPRETATION AND VERIFICATION
 
@@ -20,7 +19,7 @@ The information can not be pulished without being contrasted first. Is really im
 
 ## INFORMATION TRANSMITION
 
-The last function the journalist have is to transmit the information to the audience, to the recipient in understable way. Is important to know the audience needs and to adapt the information code to those needs.
+The last function the journalist have is to transmit the information to the audience, to the recipient in understable way. Is important to know the audience needs and to adapt the information code to those needs. At this point, the journalist must decide and select which is the best media support for the transmition of this information and which is the best way to communicate what he wants to explain.
 
 ![World](https://www.ucas.com/ucas/after-gcses/find-career-ideas/explore-jobs/job-profile/magazine-journalist)
 
