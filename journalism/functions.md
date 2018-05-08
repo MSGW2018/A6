@@ -7,8 +7,6 @@ A good journalist must accomplish some functions and obligations. The journalist
 
 The journalist must choose and select the information and localize it. They also have to put their knowledge in relation with the society, what means that journalists must be good documented. This point is really important because is one of the main differences between a professional jounalist from the citizen journalism. Nowadays, in the selection of this information it is a quite commonly technique to check the information from the Big Data.
 
-![Selection](https://thumbs.dreamstime.com/b/el-trabajo-en-equipo-nos-ayuda-seleccionar-la-mejor-información-para-traer-los-clientes-para-utilizar-en-trabajo-acertado-98508612.jpg) 
-
 ![Selection](https://acrisure.com/wp-content/uploads/2016/05/Information-security-officers-and-risk-managers-can-work-together-to-select-and-customize-cyber-insurance-policies-_2120_40124086_0_14128124_500.jpg)
 
 ## CLASIFICATION 
