@@ -13,7 +13,7 @@ The journalist must choose and select the information and localize it. They also
 
 The next step after selecting the information for the journalist is clasificating the content obtained depending on the importance, the ubication, relevance, etc… 
 
-With the evolution of the Internet and other Communication technologies (Big Data), the way in which information is classified has changed, journalists modified the way they made their job. One of these changes has been shown with the appearence of a new job: "The Data scientists",proffesionals in maths, statistics and engineery that analyse the data in search of information (Tascon, 2013).
+With the evolution of the Internet and other Communication technologies (Big Data), the way in which information is classified has changed, journalists modified the way they made their job. One of these changes has been shown with the appearence of a new job: "The Data Scientists", proffesionals in maths, statistics and engineery that analyse the data in search of information (Tascon, 2013).
 
 ![Clasification](https://www.certsi.es/sites/default/files/styles/recuadro_original/public/contenidos/blog/portada_4.png?itok=1pyQK10K)
 
