@@ -19,7 +19,7 @@ The most common practice is sourcing the public for content creation. Wikipedia,
 ## Types of crowdsourcing ##
 
 1. *Crowdwisdom*
-Crowdwisdom allows users to ask questions in front of a big online audience that can help answering these questions. An example for crowdwisdom is the website: Yahoo Answers.
+ Large group's aggregated answers to questions involving quantity estimation, general world knowledge, and spatial reasoning has generally been found to be as good as, but often superior to, the answer given by any of the individuals within the group. An explanation for this phenomenon is that there is idiosyncratic noise associated with each individual judgment, and taking the average over a large number of responses will go some way toward canceling the effect of this noise.[1] This process, while not new to the Information Age, has been pushed into the mainstream spotlight by social information sites such as Wikipedia, Yahoo! Answers, Quora, Stack Exchange and other web resources that rely on human opinion.[2]
 2. *Crowdfunding*
 Crowdfunding gives people the opportunity to get fundings for a specific project by a large group of people. Everyone can publish a project he or she needs funding for and other users and contribute to the projects by donating money. One example for crowdfunding is the website: kickstarter. Every kind of project can be published - from gadgets to movie projects.
 3. *Crowdsourced design*
