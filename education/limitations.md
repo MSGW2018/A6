@@ -27,3 +27,9 @@ In this way, the main limitations that open education faces nowadays are the fol
 - Some students may have trouble using some OERs if they have a slow or erratic internet connection. Other OERs may require software that students don’t have and that they may not be able to afford.
 
 Finally, we can mention a recommendation of the Paris OER Declaration: *"Encourage the development and adaptation of OER in a variety of languages and cultural contexts. Favour the production and use of OER in local languages and diverse cultural  contexts to ensure their relevance and accessibility. Intergovernmental organisations should encourage the sharing of OER across languages and cultures, respecting indigenous knowledge and rights".* 
+
+![Open Education](https://www.qualitymatters.org/sites/default/files/article-faq-images/educational-materials-online-course-500px.png)
+
+### INTERESTING LINKS
+- You can read more about the limitations in [this interesting article (Advantages and Limitations of Usage of Open Educational Resources in Small Countries)](https://oerknowledgecloud.org/sites/oerknowledgecloud.org/files/5000123134-5000259500-1-PB.pdf) or either in [this one (Open Educational Resources: Opportunities and Challenges)](http://www.oecd.org/education/ceri/37351085.pdf)
+
