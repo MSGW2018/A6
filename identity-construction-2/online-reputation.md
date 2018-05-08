@@ -1,6 +1,6 @@
 ## Online reputation ##
 
-The insight that someone produces on the internet depending on their digital footprint is what we call **online reputation**. Digital footprints are created by all of the shared content and de communication existing in the user’s online activity. The fact that if someone has a bad online reputation can change their pseudonym generates distrust in accounts like eBay or Amazon.
+The insight that someone produces on the internet depending on their digital footprint is what we call **online reputation**. Digital footprints are created by all shared content and communication existing in the user’s online activity. The fact that if someone has a bad online reputation, it can change their pseudonym and generates distrust in accounts like eBay or Amazon.
 
 The control and influence that a group has on the reputation is what we call the reputation management. Incipiently it´s was a term for public relations, social networks and the increase of the internet. The **Online Reputation Management (OMR)** companies focus their attention on the “mugshot removal sites, astroturfing review sites, censoring negative complaints, and using search engine optimization tactics to influence results”
 
