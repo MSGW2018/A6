@@ -12,7 +12,7 @@ The sum of small niche markets, such us the specific and defined customer groups
 
 It must be said, that the long tail theory is based on three things: **_the democratization of access to production_**, **_the democratization of access to distribution_** and **_connecting demand with supply_**.
 
-** LONG TAIL and SEO **
+**LONG TAIL and SEO**
 
 If we focus the Long Tail on Internet positioning (SEO), we find that the sum of searches of Internet users with less frequent keywords will probably translate into a higher volume than usual. 
 
