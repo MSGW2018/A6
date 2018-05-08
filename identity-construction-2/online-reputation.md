@@ -1,12 +1,12 @@
 ## Online reputation ##
 
-The insight that someone produces on the Internet depending on its digital footprint is what we call **online reputation**. Digital footprints are created by all the shared content and communication existing in the user’s online activity. Having a bad reputation can change someones pseudonym, which generates distrust in accounts like eBay or Amazon.
+The insight that someone produces on the Internet depending on its digital footprint is what we call **online reputation**. [**Digital footprints**](https://en.wikipedia.org/wiki/Digital_footprint) are created by all the shared content and communication existing in the user’s online activity. Having a bad reputation can change someones pseudonym, which generates distrust in accounts like eBay or Amazon.
 
-The control and influence that a group has on its reputation is what we call the reputation management. Incipiently it was a term for public relations, social networks and the increase of the Internet. The **Online Reputation Management (OMR)** companies focus their attention on the “mugshot removal sites, astroturfing review sites, censoring negative complaints, and using search engine optimization tactics to influence results”.
+The control and influence that a group has on its reputation is what we call the reputation management. Incipiently it was a term for public relations, social networks and the increase of the Internet. The [**Online Reputation Management (OMR)**](https://www.reputationdefender.com/what-online-reputation-management) companies focus their attention on the “mugshot removal sites, astroturfing review sites, censoring negative complaints, and using search engine optimization tactics to influence results”.
 
 As *Michael Fertik* said in an interview for [Forbes](https://www.forbes.com/sites/learnvest/2013/11/20/10-things-you-need-to-know-about-online-reputation-management/2/#7de70a95686d):
 
-> “If someone says something negative about you or something true but old and obsolete—perhaps it is that you were fired from your last job—these things can really damage your future. At the same time, your digital reputation also creates significant opportunities. If you aren’t taking advantage of what your reputation could be or hanging your digital shingle the way it deserves to be hung, people aren’t seeing your best foot forward.” 
+> “If someone says something negative about you or something true but old and obsolete—perhaps it is that you were fired from your last job—these things can really damage your future. At the same time, your digital reputation also creates significant opportunities. If you aren’t taking advantage of what your reputation could be or hanging your digital shingle the way it deserves to be hung, people aren’t seeing your best foot forward”. 
 
 ![GitHub Logo](https://www.reviewsolved.com/wp-content/uploads/2018/01/online-reputation-management-compressed.jpg)
 
@@ -22,7 +22,7 @@ There are some **principles** that characterise online reputation management:
 6. Keep your personal information apart from all the identifiable information. Unfortunately, it can be used to hijack your personal information.
 7. Be aware of the fact that everything we upload or publish online is part of our online reputation. 
 
-([![An interesting video about online reputation](https://img.youtube.com/vi/w7qEbPVw3hA/0.jpg)](https://www.youtube.com/watch?v=w7qEbPVw3hA)
+[![An interesting video about online reputation](https://img.youtube.com/vi/w7qEbPVw3hA/0.jpg)](https://www.youtube.com/watch?v=w7qEbPVw3hA)
 
 ## References ##
 ### Online reputation ###
